@@ -1,0 +1,8 @@
+id_sesji,warunek,TP,FN,FP,TN,hit_rate,false_alarm_rate,d_prime,criterion_C,rt_mean_ms,n_trials
+sesja_01,pilot,44,14,3,47,0.759,0.06,2.174,0.399,490.6,108
+sesja_02,pilot,30,0,0,30,1.0,0.0,4.282,-0.0,320.6,60
+sesja_03,wieczor,47,3,1,49,0.94,0.02,3.376,0.202,386.6,100
+sesja_04,rano,47,3,1,49,0.94,0.02,3.376,0.202,387.3,100
+sesja_05,po pracy,40,10,0,50,0.8,0.0,3.155,0.756,408.5,100
+sesja_06,popoludniu,33,17,0,50,0.66,0.0,2.738,0.965,474.3,100
+sesja_07,po pracy,45,5,1,49,0.9,0.02,3.128,0.326,347.9,100

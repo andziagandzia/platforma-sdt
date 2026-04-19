@@ -1,0 +1,1519 @@
+timestamp,id_uczestnika,id_sesji,id_proby,typ_bodzca,warunek,bodziec_obecny,poziom_bodzca,odpowiedz,czas_reakcji_ms,czy_poprawna,klasa_wyniku,pewnosc
+2026-03-08T12:32:46,ja_01,sesja_01,1,wzrok,pilot,0,0.0,1,898,0,FP
+2026-03-08T12:32:48,ja_01,sesja_01,2,wzrok,pilot,0,0.0,1,1455,0,FP
+2026-03-08T12:32:50,ja_01,sesja_01,3,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:32:52,ja_01,sesja_01,4,wzrok,pilot,1,0.08,0,,0,FN
+2026-03-08T12:32:54,ja_01,sesja_01,5,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:32:56,ja_01,sesja_01,6,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:32:58,ja_01,sesja_01,7,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:33:01,ja_01,sesja_01,8,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:33:03,ja_01,sesja_01,9,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:03,ja_01,sesja_01,10,wzrok,pilot,1,0.08,0,74,0,FN
+2026-03-08T12:33:05,ja_01,sesja_01,11,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:33:08,ja_01,sesja_01,12,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:09,ja_01,sesja_01,13,wzrok,pilot,1,0.12,1,344,1,TP
+2026-03-08T12:33:11,ja_01,sesja_01,14,wzrok,pilot,1,0.16,1,1364,1,TP
+2026-03-08T12:33:12,ja_01,sesja_01,15,wzrok,pilot,1,0.12,1,458,1,TP
+2026-03-08T12:33:13,ja_01,sesja_01,16,wzrok,pilot,1,0.12,1,336,1,TP
+2026-03-08T12:33:14,ja_01,sesja_01,17,wzrok,pilot,1,0.08,1,378,1,TP
+2026-03-08T12:33:15,ja_01,sesja_01,18,wzrok,pilot,1,0.12,1,455,1,TP
+2026-03-08T12:33:17,ja_01,sesja_01,19,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:19,ja_01,sesja_01,20,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:21,ja_01,sesja_01,21,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:23,ja_01,sesja_01,22,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:25,ja_01,sesja_01,23,wzrok,pilot,1,0.16,1,535,1,TP
+2026-03-08T12:33:25,ja_01,sesja_01,24,wzrok,pilot,1,0.12,1,282,1,TP
+2026-03-08T12:33:26,ja_01,sesja_01,25,wzrok,pilot,1,0.16,1,242,1,TP
+2026-03-08T12:33:28,ja_01,sesja_01,26,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:33:31,ja_01,sesja_01,27,wzrok,pilot,1,0.16,1,1462,1,TP
+2026-03-08T12:33:32,ja_01,sesja_01,28,wzrok,pilot,0,0.0,0,693,1,TN
+2026-03-08T12:33:33,ja_01,sesja_01,29,wzrok,pilot,1,0.12,1,418,1,TP
+2026-03-08T12:33:34,ja_01,sesja_01,30,wzrok,pilot,1,0.16,1,513,1,TP
+2026-03-08T12:36:22,ja_01,sesja_01,1,wzrok,pilot,0,0.0,0,1132,1,TN
+2026-03-08T12:36:24,ja_01,sesja_01,2,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:25,ja_01,sesja_01,3,wzrok,pilot,0,0.0,0,217,1,TN
+2026-03-08T12:36:27,ja_01,sesja_01,4,wzrok,pilot,1,0.08,1,1392,1,TP
+2026-03-08T12:36:29,ja_01,sesja_01,5,wzrok,pilot,1,0.08,1,1330,1,TP
+2026-03-08T12:36:31,ja_01,sesja_01,6,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:34,ja_01,sesja_01,7,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:34,ja_01,sesja_01,8,wzrok,pilot,1,0.12,1,175,1,TP
+2026-03-08T12:36:35,ja_01,sesja_01,9,wzrok,pilot,1,0.12,1,404,1,TP
+2026-03-08T12:36:36,ja_01,sesja_01,10,wzrok,pilot,0,0.0,0,455,1,TN
+2026-03-08T12:36:38,ja_01,sesja_01,11,wzrok,pilot,1,0.08,1,469,1,TP
+2026-03-08T12:36:38,ja_01,sesja_01,12,wzrok,pilot,1,0.08,0,229,0,FN
+2026-03-08T12:36:41,ja_01,sesja_01,13,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:41,ja_01,sesja_01,14,wzrok,pilot,1,0.16,0,50,0,FN
+2026-03-08T12:36:42,ja_01,sesja_01,15,wzrok,pilot,1,0.08,1,239,1,TP
+2026-03-08T12:36:44,ja_01,sesja_01,16,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:46,ja_01,sesja_01,17,wzrok,pilot,0,0.0,0,1002,1,TN
+2026-03-08T12:36:47,ja_01,sesja_01,18,wzrok,pilot,1,0.12,1,402,1,TP
+2026-03-08T12:36:48,ja_01,sesja_01,19,wzrok,pilot,0,0.0,0,459,1,TN
+2026-03-08T12:36:49,ja_01,sesja_01,20,wzrok,pilot,0,0.0,0,390,1,TN
+2026-03-08T12:36:50,ja_01,sesja_01,21,wzrok,pilot,0,0.0,0,723,1,TN
+2026-03-08T12:36:52,ja_01,sesja_01,22,wzrok,pilot,0,0.0,0,1005,1,TN
+2026-03-08T12:36:53,ja_01,sesja_01,23,wzrok,pilot,1,0.16,1,440,1,TP
+2026-03-08T12:36:55,ja_01,sesja_01,24,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:36:57,ja_01,sesja_01,25,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:37:00,ja_01,sesja_01,26,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:37:02,ja_01,sesja_01,27,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:37:04,ja_01,sesja_01,28,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:37:06,ja_01,sesja_01,29,wzrok,pilot,0,0.0,0,,1,TN
+2026-03-08T12:37:08,ja_01,sesja_01,30,wzrok,pilot,1,0.12,0,,0,FN
+2026-03-08T12:37:09,ja_01,sesja_01,31,wzrok,pilot,1,0.16,1,457,1,TP
+2026-03-08T12:37:10,ja_01,sesja_01,32,wzrok,pilot,1,0.16,1,259,1,TP
+2026-03-08T12:37:12,ja_01,sesja_01,33,wzrok,pilot,0,0.0,0,1389,1,TN
+2026-03-08T12:37:13,ja_01,sesja_01,34,wzrok,pilot,1,0.08,1,318,1,TP
+2026-03-08T12:37:14,ja_01,sesja_01,35,wzrok,pilot,1,0.12,1,295,1,TP
+2026-03-08T12:37:15,ja_01,sesja_01,36,wzrok,pilot,1,0.08,1,255,1,TP
+2026-03-08T12:37:16,ja_01,sesja_01,37,wzrok,pilot,1,0.08,1,228,1,TP
+2026-03-08T12:37:17,ja_01,sesja_01,38,wzrok,pilot,1,0.12,1,185,1,TP
+2026-03-08T12:37:17,ja_01,sesja_01,39,wzrok,pilot,1,0.08,1,159,1,TP
+2026-03-08T12:37:18,ja_01,sesja_01,40,wzrok,pilot,1,0.16,1,162,1,TP
+2026-03-08T12:37:20,ja_01,sesja_01,41,wzrok,pilot,0,0.0,0,757,1,TN
+2026-03-08T12:37:21,ja_01,sesja_01,42,wzrok,pilot,1,0.08,0,304,0,FN
+2026-03-08T12:37:21,ja_01,sesja_01,43,wzrok,pilot,1,0.12,1,291,1,TP
+2026-03-08T12:37:22,ja_01,sesja_01,44,wzrok,pilot,0,0.0,0,329,1,TN
+2026-03-08T12:37:23,ja_01,sesja_01,45,wzrok,pilot,1,0.16,1,198,1,TP
+2026-03-08T12:37:24,ja_01,sesja_01,46,wzrok,pilot,1,0.12,1,196,1,TP
+2026-03-08T12:37:25,ja_01,sesja_01,47,wzrok,pilot,1,0.08,0,276,0,FN
+2026-03-08T12:37:27,ja_01,sesja_01,48,wzrok,pilot,0,0.0,0,1044,1,TN
+2026-03-08T12:37:28,ja_01,sesja_01,49,wzrok,pilot,1,0.16,1,351,1,TP
+2026-03-08T12:37:29,ja_01,sesja_01,50,wzrok,pilot,1,0.12,1,305,1,TP
+2026-03-08T12:37:29,ja_01,sesja_01,51,wzrok,pilot,0,0.0,0,174,1,TN
+2026-03-08T12:37:30,ja_01,sesja_01,52,wzrok,pilot,0,0.0,0,245,1,TN
+2026-03-08T12:37:31,ja_01,sesja_01,53,wzrok,pilot,1,0.16,1,261,1,TP
+2026-03-08T12:37:32,ja_01,sesja_01,54,wzrok,pilot,0,0.0,1,351,0,FP
+2026-03-08T12:37:33,ja_01,sesja_01,55,wzrok,pilot,1,0.16,1,408,1,TP
+2026-03-08T12:37:34,ja_01,sesja_01,56,wzrok,pilot,0,0.0,0,454,1,TN
+2026-03-08T12:37:36,ja_01,sesja_01,57,wzrok,pilot,0,0.0,0,529,1,TN
+2026-03-08T12:37:37,ja_01,sesja_01,58,wzrok,pilot,1,0.12,1,365,1,TP
+2026-03-08T12:37:38,ja_01,sesja_01,59,wzrok,pilot,0,0.0,0,529,1,TN
+2026-03-08T12:37:39,ja_01,sesja_01,60,wzrok,pilot,0,0.0,0,212,1,TN
+2026-03-08T13:50:58,ja_01,sesja_01,1,wzrok,pilot,0,0.0,0,1215,1,TN
+2026-03-08T13:51:00,ja_01,sesja_01,2,wzrok,pilot,0,0.0,0,447,1,TN
+2026-03-08T13:51:01,ja_01,sesja_01,3,wzrok,pilot,0,0.0,0,555,1,TN
+2026-03-08T13:51:02,ja_01,sesja_01,4,wzrok,pilot,0,0.0,0,398,1,TN
+2026-03-08T13:51:04,ja_01,sesja_01,5,wzrok,pilot,1,0.16,1,425,1,TP
+2026-03-08T13:51:05,ja_01,sesja_01,6,wzrok,pilot,1,0.08,1,578,1,TP
+2026-03-08T13:51:06,ja_01,sesja_01,7,wzrok,pilot,1,0.08,1,389,1,TP
+2026-03-08T13:51:08,ja_01,sesja_01,8,wzrok,pilot,1,0.08,1,471,1,TP
+2026-03-08T13:51:09,ja_01,sesja_01,9,wzrok,pilot,0,0.0,0,399,1,TN
+2026-03-08T13:51:10,ja_01,sesja_01,10,wzrok,pilot,0,0.0,0,530,1,TN
+2026-03-08T13:51:11,ja_01,sesja_01,11,wzrok,pilot,1,0.08,0,265,0,FN
+2026-03-08T13:51:13,ja_01,sesja_01,12,wzrok,pilot,0,0.0,0,432,1,TN
+2026-03-08T13:51:14,ja_01,sesja_01,13,wzrok,pilot,1,0.16,1,219,1,TP
+2026-03-08T13:51:15,ja_01,sesja_01,14,wzrok,pilot,1,0.16,1,251,1,TP
+2026-03-08T13:51:16,ja_01,sesja_01,15,wzrok,pilot,0,0.0,0,352,1,TN
+2026-03-08T13:51:17,ja_01,sesja_01,16,wzrok,pilot,1,0.16,1,330,1,TP
+2026-03-08T13:51:19,ja_01,sesja_01,17,wzrok,pilot,0,0.0,0,773,1,TN
+2026-03-08T13:51:21,ja_01,sesja_01,18,wzrok,pilot,1,0.16,0,,0,FN
+2026-03-08T13:53:58,ja_01,sesja_02,1,wzrok,pilot,0,0.0,0,400,1,TN
+2026-03-08T13:53:59,ja_01,sesja_02,2,wzrok,pilot,1,0.12,1,373,1,TP
+2026-03-08T13:54:00,ja_01,sesja_02,3,wzrok,pilot,0,0.0,0,504,1,TN
+2026-03-08T13:54:01,ja_01,sesja_02,4,wzrok,pilot,0,0.0,0,357,1,TN
+2026-03-08T13:54:02,ja_01,sesja_02,5,wzrok,pilot,0,0.0,0,433,1,TN
+2026-03-08T13:54:04,ja_01,sesja_02,6,wzrok,pilot,0,0.0,0,534,1,TN
+2026-03-08T13:54:05,ja_01,sesja_02,7,wzrok,pilot,1,0.12,1,333,1,TP
+2026-03-08T13:54:06,ja_01,sesja_02,8,wzrok,pilot,1,0.08,1,464,1,TP
+2026-03-08T13:54:07,ja_01,sesja_02,9,wzrok,pilot,0,0.0,0,425,1,TN
+2026-03-08T13:54:08,ja_01,sesja_02,10,wzrok,pilot,0,0.0,0,430,1,TN
+2026-03-08T13:54:09,ja_01,sesja_02,11,wzrok,pilot,1,0.12,1,379,1,TP
+2026-03-08T13:54:10,ja_01,sesja_02,12,wzrok,pilot,0,0.0,0,285,1,TN
+2026-03-08T13:54:11,ja_01,sesja_02,13,wzrok,pilot,1,0.16,1,307,1,TP
+2026-03-08T13:54:12,ja_01,sesja_02,14,wzrok,pilot,1,0.16,1,250,1,TP
+2026-03-08T13:54:12,ja_01,sesja_02,15,wzrok,pilot,1,0.16,1,314,1,TP
+2026-03-08T13:54:13,ja_01,sesja_02,16,wzrok,pilot,1,0.12,1,354,1,TP
+2026-03-08T13:54:14,ja_01,sesja_02,17,wzrok,pilot,1,0.08,1,260,1,TP
+2026-03-08T13:54:15,ja_01,sesja_02,18,wzrok,pilot,0,0.0,0,398,1,TN
+2026-03-08T13:54:16,ja_01,sesja_02,19,wzrok,pilot,1,0.08,1,387,1,TP
+2026-03-08T13:54:17,ja_01,sesja_02,20,wzrok,pilot,1,0.16,1,289,1,TP
+2026-03-08T13:54:18,ja_01,sesja_02,21,wzrok,pilot,1,0.12,1,309,1,TP
+2026-03-08T13:54:19,ja_01,sesja_02,22,wzrok,pilot,1,0.08,1,265,1,TP
+2026-03-08T13:54:20,ja_01,sesja_02,23,wzrok,pilot,1,0.08,1,289,1,TP
+2026-03-08T13:54:21,ja_01,sesja_02,24,wzrok,pilot,1,0.08,1,286,1,TP
+2026-03-08T13:54:22,ja_01,sesja_02,25,wzrok,pilot,1,0.12,1,288,1,TP
+2026-03-08T13:54:23,ja_01,sesja_02,26,wzrok,pilot,1,0.12,1,240,1,TP
+2026-03-08T13:54:24,ja_01,sesja_02,27,wzrok,pilot,1,0.16,1,260,1,TP
+2026-03-08T13:54:25,ja_01,sesja_02,28,wzrok,pilot,0,0.0,0,385,1,TN
+2026-03-08T13:54:26,ja_01,sesja_02,29,wzrok,pilot,1,0.08,1,305,1,TP
+2026-03-08T13:54:26,ja_01,sesja_02,30,wzrok,pilot,0,0.0,0,285,1,TN
+2026-03-08T13:54:27,ja_01,sesja_02,31,wzrok,pilot,0,0.0,0,347,1,TN
+2026-03-08T13:54:28,ja_01,sesja_02,32,wzrok,pilot,0,0.0,0,333,1,TN
+2026-03-08T13:54:29,ja_01,sesja_02,33,wzrok,pilot,0,0.0,0,323,1,TN
+2026-03-08T13:54:30,ja_01,sesja_02,34,wzrok,pilot,1,0.12,1,313,1,TP
+2026-03-08T13:54:31,ja_01,sesja_02,35,wzrok,pilot,0,0.0,0,359,1,TN
+2026-03-08T13:54:32,ja_01,sesja_02,36,wzrok,pilot,1,0.08,1,235,1,TP
+2026-03-08T13:54:33,ja_01,sesja_02,37,wzrok,pilot,0,0.0,0,275,1,TN
+2026-03-08T13:54:34,ja_01,sesja_02,38,wzrok,pilot,1,0.12,1,218,1,TP
+2026-03-08T13:54:35,ja_01,sesja_02,39,wzrok,pilot,0,0.0,0,199,1,TN
+2026-03-08T13:54:36,ja_01,sesja_02,40,wzrok,pilot,0,0.0,0,292,1,TN
+2026-03-08T13:54:37,ja_01,sesja_02,41,wzrok,pilot,1,0.16,1,259,1,TP
+2026-03-08T13:54:37,ja_01,sesja_02,42,wzrok,pilot,1,0.16,1,213,1,TP
+2026-03-08T13:54:38,ja_01,sesja_02,43,wzrok,pilot,0,0.0,0,263,1,TN
+2026-03-08T13:54:39,ja_01,sesja_02,44,wzrok,pilot,1,0.16,1,280,1,TP
+2026-03-08T13:54:40,ja_01,sesja_02,45,wzrok,pilot,0,0.0,0,213,1,TN
+2026-03-08T13:54:41,ja_01,sesja_02,46,wzrok,pilot,0,0.0,0,349,1,TN
+2026-03-08T13:54:42,ja_01,sesja_02,47,wzrok,pilot,0,0.0,0,318,1,TN
+2026-03-08T13:54:43,ja_01,sesja_02,48,wzrok,pilot,1,0.12,1,263,1,TP
+2026-03-08T13:54:44,ja_01,sesja_02,49,wzrok,pilot,0,0.0,0,409,1,TN
+2026-03-08T13:54:45,ja_01,sesja_02,50,wzrok,pilot,0,0.0,0,308,1,TN
+2026-03-08T13:54:46,ja_01,sesja_02,51,wzrok,pilot,0,0.0,0,329,1,TN
+2026-03-08T13:54:47,ja_01,sesja_02,52,wzrok,pilot,0,0.0,0,375,1,TN
+2026-03-08T13:54:48,ja_01,sesja_02,53,wzrok,pilot,1,0.12,1,307,1,TP
+2026-03-08T13:54:49,ja_01,sesja_02,54,wzrok,pilot,1,0.08,1,332,1,TP
+2026-03-08T13:54:50,ja_01,sesja_02,55,wzrok,pilot,0,0.0,0,270,1,TN
+2026-03-08T13:54:50,ja_01,sesja_02,56,wzrok,pilot,1,0.16,1,207,1,TP
+2026-03-08T13:54:51,ja_01,sesja_02,57,wzrok,pilot,0,0.0,0,317,1,TN
+2026-03-08T13:54:52,ja_01,sesja_02,58,wzrok,pilot,0,0.0,0,319,1,TN
+2026-03-08T13:54:53,ja_01,sesja_02,59,wzrok,pilot,1,0.08,1,269,1,TP
+2026-03-08T13:54:54,ja_01,sesja_02,60,wzrok,pilot,0,0.0,0,351,1,TN
+2026-03-08T19:06:56,ja_01,sesja_03,1,wzrok,wieczor,1,0.09,1,440,1,TP
+2026-03-08T19:06:57,ja_01,sesja_03,2,wzrok,wieczor,1,0.09,1,379,1,TP
+2026-03-08T19:06:58,ja_01,sesja_03,3,wzrok,wieczor,0,0.0,0,512,1,TN
+2026-03-08T19:06:59,ja_01,sesja_03,4,wzrok,wieczor,0,0.0,0,379,1,TN
+2026-03-08T19:07:00,ja_01,sesja_03,5,wzrok,wieczor,1,0.07,1,420,1,TP
+2026-03-08T19:07:01,ja_01,sesja_03,6,wzrok,wieczor,0,0.0,0,490,1,TN
+2026-03-08T19:07:02,ja_01,sesja_03,7,wzrok,wieczor,1,0.07,1,332,1,TP
+2026-03-08T19:07:03,ja_01,sesja_03,8,wzrok,wieczor,1,0.09,1,271,1,TP
+2026-03-08T19:07:04,ja_01,sesja_03,9,wzrok,wieczor,0,0.0,0,557,1,TN
+2026-03-08T19:07:05,ja_01,sesja_03,10,wzrok,wieczor,0,0.0,0,315,1,TN
+2026-03-08T19:07:06,ja_01,sesja_03,11,wzrok,wieczor,1,0.07,1,333,1,TP
+2026-03-08T19:07:07,ja_01,sesja_03,12,wzrok,wieczor,1,0.07,1,336,1,TP
+2026-03-08T19:07:08,ja_01,sesja_03,13,wzrok,wieczor,0,0.0,0,534,1,TN
+2026-03-08T19:07:09,ja_01,sesja_03,14,wzrok,wieczor,0,0.0,0,553,1,TN
+2026-03-08T19:07:10,ja_01,sesja_03,15,wzrok,wieczor,0,0.0,0,379,1,TN
+2026-03-08T19:07:11,ja_01,sesja_03,16,wzrok,wieczor,1,0.09,1,268,1,TP
+2026-03-08T19:07:12,ja_01,sesja_03,17,wzrok,wieczor,1,0.07,1,226,1,TP
+2026-03-08T19:07:13,ja_01,sesja_03,18,wzrok,wieczor,1,0.09,1,358,1,TP
+2026-03-08T19:07:14,ja_01,sesja_03,19,wzrok,wieczor,1,0.07,1,227,1,TP
+2026-03-08T19:07:15,ja_01,sesja_03,20,wzrok,wieczor,1,0.03,1,205,1,TP
+2026-03-08T19:07:15,ja_01,sesja_03,21,wzrok,wieczor,1,0.09,1,248,1,TP
+2026-03-08T19:07:16,ja_01,sesja_03,22,wzrok,wieczor,0,0.0,0,360,1,TN
+2026-03-08T19:07:17,ja_01,sesja_03,23,wzrok,wieczor,0,0.0,0,250,1,TN
+2026-03-08T19:07:18,ja_01,sesja_03,24,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:07:19,ja_01,sesja_03,25,wzrok,wieczor,0,0.0,0,293,1,TN
+2026-03-08T19:07:20,ja_01,sesja_03,26,wzrok,wieczor,1,0.09,1,290,1,TP
+2026-03-08T19:07:21,ja_01,sesja_03,27,wzrok,wieczor,1,0.05,1,292,1,TP
+2026-03-08T19:07:22,ja_01,sesja_03,28,wzrok,wieczor,1,0.07,1,249,1,TP
+2026-03-08T19:07:23,ja_01,sesja_03,29,wzrok,wieczor,1,0.03,1,293,1,TP
+2026-03-08T19:07:24,ja_01,sesja_03,30,wzrok,wieczor,1,0.07,1,271,1,TP
+2026-03-08T19:07:25,ja_01,sesja_03,31,wzrok,wieczor,0,0.0,0,338,1,TN
+2026-03-08T19:07:26,ja_01,sesja_03,32,wzrok,wieczor,1,0.03,0,315,0,FN
+2026-03-08T19:07:27,ja_01,sesja_03,33,wzrok,wieczor,0,0.0,1,355,0,FP
+2026-03-08T19:07:28,ja_01,sesja_03,34,wzrok,wieczor,0,0.0,0,773,1,TN
+2026-03-08T19:07:29,ja_01,sesja_03,35,wzrok,wieczor,1,0.09,1,246,1,TP
+2026-03-08T19:07:30,ja_01,sesja_03,36,wzrok,wieczor,0,0.0,0,317,1,TN
+2026-03-08T19:07:31,ja_01,sesja_03,37,wzrok,wieczor,1,0.07,1,224,1,TP
+2026-03-08T19:07:32,ja_01,sesja_03,38,wzrok,wieczor,0,0.0,0,318,1,TN
+2026-03-08T19:07:32,ja_01,sesja_03,39,wzrok,wieczor,1,0.05,1,201,1,TP
+2026-03-08T19:07:33,ja_01,sesja_03,40,wzrok,wieczor,1,0.03,1,313,1,TP
+2026-03-08T19:07:34,ja_01,sesja_03,41,wzrok,wieczor,1,0.03,1,335,1,TP
+2026-03-08T19:07:35,ja_01,sesja_03,42,wzrok,wieczor,1,0.03,1,271,1,TP
+2026-03-08T19:07:36,ja_01,sesja_03,43,wzrok,wieczor,1,0.09,1,313,1,TP
+2026-03-08T19:07:37,ja_01,sesja_03,44,wzrok,wieczor,1,0.05,1,335,1,TP
+2026-03-08T19:07:38,ja_01,sesja_03,45,wzrok,wieczor,1,0.09,1,249,1,TP
+2026-03-08T19:07:39,ja_01,sesja_03,46,wzrok,wieczor,0,0.0,0,425,1,TN
+2026-03-08T19:07:40,ja_01,sesja_03,47,wzrok,wieczor,0,0.0,0,314,1,TN
+2026-03-08T19:07:41,ja_01,sesja_03,48,wzrok,wieczor,0,0.0,0,380,1,TN
+2026-03-08T19:07:42,ja_01,sesja_03,49,wzrok,wieczor,1,0.05,1,355,1,TP
+2026-03-08T19:07:44,ja_01,sesja_03,50,wzrok,wieczor,1,0.03,1,1291,1,TP
+2026-03-08T19:07:46,ja_01,sesja_03,51,wzrok,wieczor,0,0.0,0,1011,1,TN
+2026-03-08T19:07:47,ja_01,sesja_03,52,wzrok,wieczor,1,0.03,1,290,1,TP
+2026-03-08T19:07:48,ja_01,sesja_03,53,wzrok,wieczor,0,0.0,0,902,1,TN
+2026-03-08T19:07:49,ja_01,sesja_03,54,wzrok,wieczor,1,0.03,1,355,1,TP
+2026-03-08T19:07:51,ja_01,sesja_03,55,wzrok,wieczor,0,0.0,0,1206,1,TN
+2026-03-08T19:07:52,ja_01,sesja_03,56,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:07:53,ja_01,sesja_03,57,wzrok,wieczor,0,0.0,0,358,1,TN
+2026-03-08T19:07:54,ja_01,sesja_03,58,wzrok,wieczor,1,0.07,1,333,1,TP
+2026-03-08T19:07:55,ja_01,sesja_03,59,wzrok,wieczor,1,0.03,1,249,1,TP
+2026-03-08T19:07:56,ja_01,sesja_03,60,wzrok,wieczor,0,0.0,0,318,1,TN
+2026-03-08T19:07:56,ja_01,sesja_03,61,wzrok,wieczor,1,0.03,0,258,0,FN
+2026-03-08T19:07:58,ja_01,sesja_03,62,wzrok,wieczor,0,0.0,0,661,1,TN
+2026-03-08T19:07:59,ja_01,sesja_03,63,wzrok,wieczor,0,0.0,0,357,1,TN
+2026-03-08T19:08:00,ja_01,sesja_03,64,wzrok,wieczor,0,0.0,0,381,1,TN
+2026-03-08T19:08:01,ja_01,sesja_03,65,wzrok,wieczor,0,0.0,0,357,1,TN
+2026-03-08T19:08:02,ja_01,sesja_03,66,wzrok,wieczor,0,0.0,0,293,1,TN
+2026-03-08T19:08:03,ja_01,sesja_03,67,wzrok,wieczor,0,0.0,0,293,1,TN
+2026-03-08T19:08:04,ja_01,sesja_03,68,wzrok,wieczor,0,0.0,0,358,1,TN
+2026-03-08T19:08:05,ja_01,sesja_03,69,wzrok,wieczor,1,0.05,1,377,1,TP
+2026-03-08T19:08:06,ja_01,sesja_03,70,wzrok,wieczor,1,0.05,1,379,1,TP
+2026-03-08T19:08:06,ja_01,sesja_03,71,wzrok,wieczor,1,0.05,1,272,1,TP
+2026-03-08T19:08:07,ja_01,sesja_03,72,wzrok,wieczor,0,0.0,0,339,1,TN
+2026-03-08T19:08:08,ja_01,sesja_03,73,wzrok,wieczor,0,0.0,0,315,1,TN
+2026-03-08T19:08:09,ja_01,sesja_03,74,wzrok,wieczor,1,0.05,1,377,1,TP
+2026-03-08T19:08:10,ja_01,sesja_03,75,wzrok,wieczor,0,0.0,0,295,1,TN
+2026-03-08T19:08:11,ja_01,sesja_03,76,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:08:12,ja_01,sesja_03,77,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:08:13,ja_01,sesja_03,78,wzrok,wieczor,0,0.0,0,337,1,TN
+2026-03-08T19:08:14,ja_01,sesja_03,79,wzrok,wieczor,1,0.07,1,397,1,TP
+2026-03-08T19:08:15,ja_01,sesja_03,80,wzrok,wieczor,0,0.0,0,296,1,TN
+2026-03-08T19:08:16,ja_01,sesja_03,81,wzrok,wieczor,0,0.0,0,488,1,TN
+2026-03-08T19:08:17,ja_01,sesja_03,82,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:08:18,ja_01,sesja_03,83,wzrok,wieczor,0,0.0,0,249,1,TN
+2026-03-08T19:08:19,ja_01,sesja_03,84,wzrok,wieczor,0,0.0,0,250,1,TN
+2026-03-08T19:08:20,ja_01,sesja_03,85,wzrok,wieczor,1,0.05,1,376,1,TP
+2026-03-08T19:08:21,ja_01,sesja_03,86,wzrok,wieczor,0,0.0,0,621,1,TN
+2026-03-08T19:08:23,ja_01,sesja_03,87,wzrok,wieczor,0,0.0,0,,1,TN
+2026-03-08T19:08:24,ja_01,sesja_03,88,wzrok,wieczor,0,0.0,0,429,1,TN
+2026-03-08T19:08:25,ja_01,sesja_03,89,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-08T19:08:26,ja_01,sesja_03,90,wzrok,wieczor,1,0.03,1,333,1,TP
+2026-03-08T19:08:27,ja_01,sesja_03,91,wzrok,wieczor,1,0.03,1,293,1,TP
+2026-03-08T19:08:28,ja_01,sesja_03,92,wzrok,wieczor,0,0.0,0,425,1,TN
+2026-03-08T19:08:29,ja_01,sesja_03,93,wzrok,wieczor,1,0.03,1,420,1,TP
+2026-03-08T19:08:30,ja_01,sesja_03,94,wzrok,wieczor,1,0.09,1,183,1,TP
+2026-03-08T19:08:31,ja_01,sesja_03,95,wzrok,wieczor,1,0.09,1,466,1,TP
+2026-03-08T19:08:33,ja_01,sesja_03,96,wzrok,wieczor,1,0.07,0,794,0,FN
+2026-03-08T19:08:34,ja_01,sesja_03,97,wzrok,wieczor,0,0.0,0,378,1,TN
+2026-03-08T19:08:35,ja_01,sesja_03,98,wzrok,wieczor,1,0.05,1,332,1,TP
+2026-03-08T19:08:36,ja_01,sesja_03,99,wzrok,wieczor,1,0.07,1,726,1,TP
+2026-03-08T19:08:37,ja_01,sesja_03,100,wzrok,wieczor,1,0.03,1,400,1,TP
+2026-03-09T06:12:08,ja_01,sesja_04,1,wzrok,rano,1,0.03,1,788,1,TP
+2026-03-09T06:12:09,ja_01,sesja_04,2,wzrok,rano,1,0.07,1,334,1,TP
+2026-03-09T06:12:10,ja_01,sesja_04,3,wzrok,rano,1,0.03,1,314,1,TP
+2026-03-09T06:12:11,ja_01,sesja_04,4,wzrok,rano,0,0.0,0,359,1,TN
+2026-03-09T06:12:12,ja_01,sesja_04,5,wzrok,rano,0,0.0,0,314,1,TN
+2026-03-09T06:12:13,ja_01,sesja_04,6,wzrok,rano,0,0.0,0,356,1,TN
+2026-03-09T06:12:14,ja_01,sesja_04,7,wzrok,rano,0,0.0,0,401,1,TN
+2026-03-09T06:12:15,ja_01,sesja_04,8,wzrok,rano,0,0.0,0,378,1,TN
+2026-03-09T06:12:16,ja_01,sesja_04,9,wzrok,rano,1,0.09,1,375,1,TP
+2026-03-09T06:12:17,ja_01,sesja_04,10,wzrok,rano,1,0.03,1,249,1,TP
+2026-03-09T06:12:18,ja_01,sesja_04,11,wzrok,rano,0,0.0,0,598,1,TN
+2026-03-09T06:12:19,ja_01,sesja_04,12,wzrok,rano,1,0.07,1,441,1,TP
+2026-03-09T06:12:20,ja_01,sesja_04,13,wzrok,rano,0,0.0,0,425,1,TN
+2026-03-09T06:12:21,ja_01,sesja_04,14,wzrok,rano,1,0.07,1,332,1,TP
+2026-03-09T06:12:22,ja_01,sesja_04,15,wzrok,rano,1,0.03,1,357,1,TP
+2026-03-09T06:12:23,ja_01,sesja_04,16,wzrok,rano,0,0.0,0,361,1,TN
+2026-03-09T06:12:24,ja_01,sesja_04,17,wzrok,rano,1,0.03,1,485,1,TP
+2026-03-09T06:12:25,ja_01,sesja_04,18,wzrok,rano,0,0.0,0,316,1,TN
+2026-03-09T06:12:26,ja_01,sesja_04,19,wzrok,rano,1,0.03,1,291,1,TP
+2026-03-09T06:12:27,ja_01,sesja_04,20,wzrok,rano,1,0.05,1,247,1,TP
+2026-03-09T06:12:28,ja_01,sesja_04,21,wzrok,rano,1,0.05,1,249,1,TP
+2026-03-09T06:12:29,ja_01,sesja_04,22,wzrok,rano,0,0.0,0,274,1,TN
+2026-03-09T06:12:30,ja_01,sesja_04,23,wzrok,rano,0,0.0,0,291,1,TN
+2026-03-09T06:12:31,ja_01,sesja_04,24,wzrok,rano,0,0.0,0,314,1,TN
+2026-03-09T06:12:32,ja_01,sesja_04,25,wzrok,rano,1,0.07,1,289,1,TP
+2026-03-09T06:12:33,ja_01,sesja_04,26,wzrok,rano,0,0.0,0,512,1,TN
+2026-03-09T06:12:34,ja_01,sesja_04,27,wzrok,rano,1,0.03,1,376,1,TP
+2026-03-09T06:12:35,ja_01,sesja_04,28,wzrok,rano,0,0.0,0,359,1,TN
+2026-03-09T06:12:36,ja_01,sesja_04,29,wzrok,rano,1,0.03,1,377,1,TP
+2026-03-09T06:12:37,ja_01,sesja_04,30,wzrok,rano,1,0.07,1,487,1,TP
+2026-03-09T06:12:38,ja_01,sesja_04,31,wzrok,rano,0,0.0,0,446,1,TN
+2026-03-09T06:12:39,ja_01,sesja_04,32,wzrok,rano,0,0.0,0,292,1,TN
+2026-03-09T06:12:40,ja_01,sesja_04,33,wzrok,rano,0,0.0,0,509,1,TN
+2026-03-09T06:12:41,ja_01,sesja_04,34,wzrok,rano,1,0.07,1,571,1,TP
+2026-03-09T06:12:42,ja_01,sesja_04,35,wzrok,rano,1,0.09,1,226,1,TP
+2026-03-09T06:12:43,ja_01,sesja_04,36,wzrok,rano,0,0.0,0,359,1,TN
+2026-03-09T06:12:44,ja_01,sesja_04,37,wzrok,rano,0,0.0,0,357,1,TN
+2026-03-09T06:12:45,ja_01,sesja_04,38,wzrok,rano,1,0.05,1,375,1,TP
+2026-03-09T06:12:46,ja_01,sesja_04,39,wzrok,rano,1,0.03,1,313,1,TP
+2026-03-09T06:12:47,ja_01,sesja_04,40,wzrok,rano,0,0.0,0,295,1,TN
+2026-03-09T06:12:48,ja_01,sesja_04,41,wzrok,rano,0,0.0,0,292,1,TN
+2026-03-09T06:12:49,ja_01,sesja_04,42,wzrok,rano,1,0.05,1,267,1,TP
+2026-03-09T06:12:50,ja_01,sesja_04,43,wzrok,rano,0,0.0,1,378,0,FP
+2026-03-09T06:12:51,ja_01,sesja_04,44,wzrok,rano,0,0.0,0,425,1,TN
+2026-03-09T06:12:52,ja_01,sesja_04,45,wzrok,rano,0,0.0,0,357,1,TN
+2026-03-09T06:12:53,ja_01,sesja_04,46,wzrok,rano,1,0.03,1,419,1,TP
+2026-03-09T06:12:54,ja_01,sesja_04,47,wzrok,rano,0,0.0,0,533,1,TN
+2026-03-09T06:12:55,ja_01,sesja_04,48,wzrok,rano,1,0.05,1,333,1,TP
+2026-03-09T06:12:56,ja_01,sesja_04,49,wzrok,rano,1,0.07,1,465,1,TP
+2026-03-09T06:12:57,ja_01,sesja_04,50,wzrok,rano,0,0.0,0,338,1,TN
+2026-03-09T06:12:58,ja_01,sesja_04,51,wzrok,rano,0,0.0,0,314,1,TN
+2026-03-09T06:12:59,ja_01,sesja_04,52,wzrok,rano,1,0.05,1,246,1,TP
+2026-03-09T06:13:00,ja_01,sesja_04,53,wzrok,rano,0,0.0,0,251,1,TN
+2026-03-09T06:13:01,ja_01,sesja_04,54,wzrok,rano,0,0.0,0,378,1,TN
+2026-03-09T06:13:02,ja_01,sesja_04,55,wzrok,rano,1,0.07,1,333,1,TP
+2026-03-09T06:13:03,ja_01,sesja_04,56,wzrok,rano,1,0.05,1,487,1,TP
+2026-03-09T06:13:04,ja_01,sesja_04,57,wzrok,rano,0,0.0,0,338,1,TN
+2026-03-09T06:13:05,ja_01,sesja_04,58,wzrok,rano,1,0.03,0,444,0,FN
+2026-03-09T06:13:06,ja_01,sesja_04,59,wzrok,rano,0,0.0,0,1007,1,TN
+2026-03-09T06:13:07,ja_01,sesja_04,60,wzrok,rano,1,0.09,1,289,1,TP
+2026-03-09T06:13:09,ja_01,sesja_04,61,wzrok,rano,1,0.03,0,707,0,FN
+2026-03-09T06:13:10,ja_01,sesja_04,62,wzrok,rano,0,0.0,0,400,1,TN
+2026-03-09T06:13:11,ja_01,sesja_04,63,wzrok,rano,1,0.05,1,354,1,TP
+2026-03-09T06:13:12,ja_01,sesja_04,64,wzrok,rano,0,0.0,0,469,1,TN
+2026-03-09T06:13:13,ja_01,sesja_04,65,wzrok,rano,1,0.05,1,852,1,TP
+2026-03-09T06:13:14,ja_01,sesja_04,66,wzrok,rano,0,0.0,0,403,1,TN
+2026-03-09T06:13:16,ja_01,sesja_04,67,wzrok,rano,1,0.07,1,787,1,TP
+2026-03-09T06:13:17,ja_01,sesja_04,68,wzrok,rano,1,0.07,0,404,0,FN
+2026-03-09T06:13:18,ja_01,sesja_04,69,wzrok,rano,1,0.09,1,398,1,TP
+2026-03-09T06:13:19,ja_01,sesja_04,70,wzrok,rano,0,0.0,0,230,1,TN
+2026-03-09T06:13:20,ja_01,sesja_04,71,wzrok,rano,1,0.07,1,377,1,TP
+2026-03-09T06:13:21,ja_01,sesja_04,72,wzrok,rano,1,0.03,1,378,1,TP
+2026-03-09T06:13:22,ja_01,sesja_04,73,wzrok,rano,1,0.07,1,662,1,TP
+2026-03-09T06:13:23,ja_01,sesja_04,74,wzrok,rano,1,0.03,1,552,1,TP
+2026-03-09T06:13:24,ja_01,sesja_04,75,wzrok,rano,0,0.0,0,339,1,TN
+2026-03-09T06:13:25,ja_01,sesja_04,76,wzrok,rano,1,0.03,1,463,1,TP
+2026-03-09T06:13:26,ja_01,sesja_04,77,wzrok,rano,0,0.0,0,382,1,TN
+2026-03-09T06:13:27,ja_01,sesja_04,78,wzrok,rano,1,0.05,1,443,1,TP
+2026-03-09T06:13:28,ja_01,sesja_04,79,wzrok,rano,0,0.0,0,338,1,TN
+2026-03-09T06:13:29,ja_01,sesja_04,80,wzrok,rano,1,0.05,1,203,1,TP
+2026-03-09T06:13:31,ja_01,sesja_04,81,wzrok,rano,1,0.05,1,987,1,TP
+2026-03-09T06:13:31,ja_01,sesja_04,82,wzrok,rano,0,0.0,0,317,1,TN
+2026-03-09T06:13:33,ja_01,sesja_04,83,wzrok,rano,1,0.03,1,398,1,TP
+2026-03-09T06:13:34,ja_01,sesja_04,84,wzrok,rano,0,0.0,0,360,1,TN
+2026-03-09T06:13:35,ja_01,sesja_04,85,wzrok,rano,0,0.0,0,424,1,TN
+2026-03-09T06:13:36,ja_01,sesja_04,86,wzrok,rano,0,0.0,0,335,1,TN
+2026-03-09T06:13:36,ja_01,sesja_04,87,wzrok,rano,0,0.0,0,336,1,TN
+2026-03-09T06:13:37,ja_01,sesja_04,88,wzrok,rano,1,0.03,1,356,1,TP
+2026-03-09T06:13:38,ja_01,sesja_04,89,wzrok,rano,1,0.03,1,314,1,TP
+2026-03-09T06:13:39,ja_01,sesja_04,90,wzrok,rano,0,0.0,0,317,1,TN
+2026-03-09T06:13:40,ja_01,sesja_04,91,wzrok,rano,0,0.0,0,249,1,TN
+2026-03-09T06:13:41,ja_01,sesja_04,92,wzrok,rano,1,0.03,1,269,1,TP
+2026-03-09T06:13:42,ja_01,sesja_04,93,wzrok,rano,1,0.07,1,184,1,TP
+2026-03-09T06:13:43,ja_01,sesja_04,94,wzrok,rano,0,0.0,0,230,1,TN
+2026-03-09T06:13:44,ja_01,sesja_04,95,wzrok,rano,0,0.0,0,272,1,TN
+2026-03-09T06:13:45,ja_01,sesja_04,96,wzrok,rano,0,0.0,0,272,1,TN
+2026-03-09T06:13:46,ja_01,sesja_04,97,wzrok,rano,1,0.09,1,332,1,TP
+2026-03-09T06:13:46,ja_01,sesja_04,98,wzrok,rano,0,0.0,0,295,1,TN
+2026-03-09T06:13:47,ja_01,sesja_04,99,wzrok,rano,0,0.0,0,185,1,TN
+2026-03-09T06:13:48,ja_01,sesja_04,100,wzrok,rano,1,0.09,1,268,1,TP
+2026-03-09T16:08:38,ja_01,sesja_05,1,wzrok,po pracy,1,0.07,1,331,1,TP
+2026-03-09T16:08:39,ja_01,sesja_05,2,wzrok,po pracy,1,0.07,1,206,1,TP
+2026-03-09T16:08:40,ja_01,sesja_05,3,wzrok,po pracy,0,0.0,0,274,1,TN
+2026-03-09T16:08:41,ja_01,sesja_05,4,wzrok,po pracy,1,0.07,1,311,1,TP
+2026-03-09T16:08:41,ja_01,sesja_05,5,wzrok,po pracy,1,0.07,1,185,1,TP
+2026-03-09T16:08:42,ja_01,sesja_05,6,wzrok,po pracy,1,0.07,1,184,1,TP
+2026-03-09T16:08:43,ja_01,sesja_05,7,wzrok,po pracy,0,0.0,0,274,1,TN
+2026-03-09T16:08:44,ja_01,sesja_05,8,wzrok,po pracy,1,0.01,0,206,0,FN
+2026-03-09T16:08:45,ja_01,sesja_05,9,wzrok,po pracy,0,0.0,0,249,1,TN
+2026-03-09T16:08:46,ja_01,sesja_05,10,wzrok,po pracy,1,0.01,0,184,0,FN
+2026-03-09T16:08:47,ja_01,sesja_05,11,wzrok,po pracy,1,0.07,1,269,1,TP
+2026-03-09T16:08:47,ja_01,sesja_05,12,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-09T16:08:48,ja_01,sesja_05,13,wzrok,po pracy,1,0.07,1,290,1,TP
+2026-03-09T16:08:49,ja_01,sesja_05,14,wzrok,po pracy,1,0.03,1,271,1,TP
+2026-03-09T16:08:50,ja_01,sesja_05,15,wzrok,po pracy,0,0.0,0,404,1,TN
+2026-03-09T16:08:51,ja_01,sesja_05,16,wzrok,po pracy,1,0.01,0,314,0,FN
+2026-03-09T16:08:52,ja_01,sesja_05,17,wzrok,po pracy,0,0.0,0,314,1,TN
+2026-03-09T16:08:53,ja_01,sesja_05,18,wzrok,po pracy,1,0.03,1,334,1,TP
+2026-03-09T16:08:54,ja_01,sesja_05,19,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-09T16:08:55,ja_01,sesja_05,20,wzrok,po pracy,0,0.0,0,249,1,TN
+2026-03-09T16:08:56,ja_01,sesja_05,21,wzrok,po pracy,0,0.0,0,315,1,TN
+2026-03-09T16:08:57,ja_01,sesja_05,22,wzrok,po pracy,1,0.09,1,312,1,TP
+2026-03-09T16:08:58,ja_01,sesja_05,23,wzrok,po pracy,0,0.0,0,273,1,TN
+2026-03-09T16:08:59,ja_01,sesja_05,24,wzrok,po pracy,0,0.0,0,293,1,TN
+2026-03-09T16:09:00,ja_01,sesja_05,25,wzrok,po pracy,0,0.0,0,272,1,TN
+2026-03-09T16:09:01,ja_01,sesja_05,26,wzrok,po pracy,0,0.0,0,531,1,TN
+2026-03-09T16:09:02,ja_01,sesja_05,27,wzrok,po pracy,0,0.0,0,900,1,TN
+2026-03-09T16:09:03,ja_01,sesja_05,28,wzrok,po pracy,1,0.03,1,311,1,TP
+2026-03-09T16:09:04,ja_01,sesja_05,29,wzrok,po pracy,1,0.05,1,357,1,TP
+2026-03-09T16:09:05,ja_01,sesja_05,30,wzrok,po pracy,1,0.01,0,513,0,FN
+2026-03-09T16:09:06,ja_01,sesja_05,31,wzrok,po pracy,1,0.03,0,401,0,FN
+2026-03-09T16:09:07,ja_01,sesja_05,32,wzrok,po pracy,1,0.05,1,441,1,TP
+2026-03-09T16:09:08,ja_01,sesja_05,33,wzrok,po pracy,0,0.0,0,405,1,TN
+2026-03-09T16:09:09,ja_01,sesja_05,34,wzrok,po pracy,1,0.01,0,423,0,FN
+2026-03-09T16:09:11,ja_01,sesja_05,35,wzrok,po pracy,1,0.01,0,400,0,FN
+2026-03-09T16:09:11,ja_01,sesja_05,36,wzrok,po pracy,0,0.0,0,335,1,TN
+2026-03-09T16:09:12,ja_01,sesja_05,37,wzrok,po pracy,1,0.07,1,334,1,TP
+2026-03-09T16:09:13,ja_01,sesja_05,38,wzrok,po pracy,0,0.0,0,403,1,TN
+2026-03-09T16:09:15,ja_01,sesja_05,39,wzrok,po pracy,0,0.0,0,552,1,TN
+2026-03-09T16:09:16,ja_01,sesja_05,40,wzrok,po pracy,0,0.0,0,1008,1,TN
+2026-03-09T16:09:17,ja_01,sesja_05,41,wzrok,po pracy,1,0.03,1,333,1,TP
+2026-03-09T16:09:19,ja_01,sesja_05,42,wzrok,po pracy,0,0.0,0,815,1,TN
+2026-03-09T16:09:20,ja_01,sesja_05,43,wzrok,po pracy,0,0.0,0,358,1,TN
+2026-03-09T16:09:21,ja_01,sesja_05,44,wzrok,po pracy,1,0.09,1,789,1,TP
+2026-03-09T16:09:23,ja_01,sesja_05,45,wzrok,po pracy,0,0.0,0,794,1,TN
+2026-03-09T16:09:24,ja_01,sesja_05,46,wzrok,po pracy,1,0.09,1,572,1,TP
+2026-03-09T16:09:25,ja_01,sesja_05,47,wzrok,po pracy,1,0.05,1,423,1,TP
+2026-03-09T16:09:26,ja_01,sesja_05,48,wzrok,po pracy,1,0.05,1,444,1,TP
+2026-03-09T16:09:27,ja_01,sesja_05,49,wzrok,po pracy,1,0.07,1,356,1,TP
+2026-03-09T16:09:28,ja_01,sesja_05,50,wzrok,po pracy,0,0.0,0,556,1,TN
+2026-03-09T16:09:29,ja_01,sesja_05,51,wzrok,po pracy,1,0.07,1,484,1,TP
+2026-03-09T16:09:30,ja_01,sesja_05,52,wzrok,po pracy,1,0.09,1,293,1,TP
+2026-03-09T16:09:31,ja_01,sesja_05,53,wzrok,po pracy,0,0.0,0,338,1,TN
+2026-03-09T16:09:32,ja_01,sesja_05,54,wzrok,po pracy,0,0.0,0,314,1,TN
+2026-03-09T16:09:33,ja_01,sesja_05,55,wzrok,po pracy,0,0.0,0,335,1,TN
+2026-03-09T16:09:34,ja_01,sesja_05,56,wzrok,po pracy,0,0.0,0,683,1,TN
+2026-03-09T16:09:35,ja_01,sesja_05,57,wzrok,po pracy,0,0.0,0,358,1,TN
+2026-03-09T16:09:36,ja_01,sesja_05,58,wzrok,po pracy,1,0.07,1,290,1,TP
+2026-03-09T16:09:37,ja_01,sesja_05,59,wzrok,po pracy,1,0.09,1,313,1,TP
+2026-03-09T16:09:38,ja_01,sesja_05,60,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-09T16:09:39,ja_01,sesja_05,61,wzrok,po pracy,1,0.07,0,292,0,FN
+2026-03-09T16:09:40,ja_01,sesja_05,62,wzrok,po pracy,1,0.07,1,225,1,TP
+2026-03-09T16:09:41,ja_01,sesja_05,63,wzrok,po pracy,1,0.05,1,227,1,TP
+2026-03-09T16:09:42,ja_01,sesja_05,64,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-09T16:09:42,ja_01,sesja_05,65,wzrok,po pracy,1,0.09,1,289,1,TP
+2026-03-09T16:09:43,ja_01,sesja_05,66,wzrok,po pracy,1,0.01,0,339,0,FN
+2026-03-09T16:09:44,ja_01,sesja_05,67,wzrok,po pracy,0,0.0,0,380,1,TN
+2026-03-09T16:09:45,ja_01,sesja_05,68,wzrok,po pracy,0,0.0,0,423,1,TN
+2026-03-09T16:09:46,ja_01,sesja_05,69,wzrok,po pracy,0,0.0,0,358,1,TN
+2026-03-09T16:09:48,ja_01,sesja_05,70,wzrok,po pracy,0,0.0,0,532,1,TN
+2026-03-09T16:09:49,ja_01,sesja_05,71,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-09T16:09:50,ja_01,sesja_05,72,wzrok,po pracy,1,0.03,1,398,1,TP
+2026-03-09T16:09:51,ja_01,sesja_05,73,wzrok,po pracy,0,0.0,0,447,1,TN
+2026-03-09T16:09:52,ja_01,sesja_05,74,wzrok,po pracy,1,0.01,0,487,0,FN
+2026-03-09T16:09:53,ja_01,sesja_05,75,wzrok,po pracy,1,0.03,1,463,1,TP
+2026-03-09T16:09:54,ja_01,sesja_05,76,wzrok,po pracy,0,0.0,0,339,1,TN
+2026-03-09T16:09:55,ja_01,sesja_05,77,wzrok,po pracy,1,0.03,1,485,1,TP
+2026-03-09T16:09:56,ja_01,sesja_05,78,wzrok,po pracy,0,0.0,0,772,1,TN
+2026-03-09T16:09:58,ja_01,sesja_05,79,wzrok,po pracy,1,0.07,1,550,1,TP
+2026-03-09T16:09:59,ja_01,sesja_05,80,wzrok,po pracy,0,0.0,0,924,1,TN
+2026-03-09T16:10:00,ja_01,sesja_05,81,wzrok,po pracy,1,0.09,1,463,1,TP
+2026-03-09T16:10:01,ja_01,sesja_05,82,wzrok,po pracy,1,0.05,1,466,1,TP
+2026-03-09T16:10:03,ja_01,sesja_05,83,wzrok,po pracy,0,0.0,0,621,1,TN
+2026-03-09T16:10:04,ja_01,sesja_05,84,wzrok,po pracy,0,0.0,0,769,1,TN
+2026-03-09T16:10:05,ja_01,sesja_05,85,wzrok,po pracy,0,0.0,0,315,1,TN
+2026-03-09T16:10:06,ja_01,sesja_05,86,wzrok,po pracy,1,0.07,1,290,1,TP
+2026-03-09T16:10:07,ja_01,sesja_05,87,wzrok,po pracy,1,0.05,1,314,1,TP
+2026-03-09T16:10:08,ja_01,sesja_05,88,wzrok,po pracy,0,0.0,0,209,1,TN
+2026-03-09T16:10:08,ja_01,sesja_05,89,wzrok,po pracy,0,0.0,0,271,1,TN
+2026-03-09T16:10:09,ja_01,sesja_05,90,wzrok,po pracy,1,0.07,1,245,1,TP
+2026-03-09T16:10:10,ja_01,sesja_05,91,wzrok,po pracy,0,0.0,0,447,1,TN
+2026-03-09T16:10:12,ja_01,sesja_05,92,wzrok,po pracy,0,0.0,0,1271,1,TN
+2026-03-09T16:10:13,ja_01,sesja_05,93,wzrok,po pracy,1,0.09,1,441,1,TP
+2026-03-09T16:10:14,ja_01,sesja_05,94,wzrok,po pracy,1,0.03,1,293,1,TP
+2026-03-09T16:10:16,ja_01,sesja_05,95,wzrok,po pracy,0,0.0,0,598,1,TN
+2026-03-09T16:10:16,ja_01,sesja_05,96,wzrok,po pracy,1,0.05,1,311,1,TP
+2026-03-09T16:10:18,ja_01,sesja_05,97,wzrok,po pracy,0,0.0,0,512,1,TN
+2026-03-09T16:10:19,ja_01,sesja_05,98,wzrok,po pracy,0,0.0,0,335,1,TN
+2026-03-09T16:10:20,ja_01,sesja_05,99,wzrok,po pracy,0,0.0,0,314,1,TN
+2026-03-09T16:10:21,ja_01,sesja_05,100,wzrok,po pracy,1,0.09,1,354,1,TP
+2026-03-10T15:22:50,ja_01,sesja_06,1,wzrok,popoludniu,0,0.0,0,510,1,TN
+2026-03-10T15:22:51,ja_01,sesja_06,2,wzrok,popoludniu,0,0.0,0,662,1,TN
+2026-03-10T15:22:52,ja_01,sesja_06,3,wzrok,popoludniu,0,0.0,0,379,1,TN
+2026-03-10T15:22:54,ja_01,sesja_06,4,wzrok,popoludniu,0,0.0,0,488,1,TN
+2026-03-10T15:22:55,ja_01,sesja_06,5,wzrok,popoludniu,1,0.03,1,374,1,TP
+2026-03-10T15:22:56,ja_01,sesja_06,6,wzrok,popoludniu,1,0.01,0,534,0,FN
+2026-03-10T15:22:57,ja_01,sesja_06,7,wzrok,popoludniu,0,0.0,0,336,1,TN
+2026-03-10T15:22:58,ja_01,sesja_06,8,wzrok,popoludniu,1,0.01,0,466,0,FN
+2026-03-10T15:22:59,ja_01,sesja_06,9,wzrok,popoludniu,1,0.05,1,311,1,TP
+2026-03-10T15:23:00,ja_01,sesja_06,10,wzrok,popoludniu,0,0.0,0,513,1,TN
+2026-03-10T15:23:01,ja_01,sesja_06,11,wzrok,popoludniu,1,0.01,0,357,0,FN
+2026-03-10T15:23:02,ja_01,sesja_06,12,wzrok,popoludniu,1,0.09,1,354,1,TP
+2026-03-10T15:23:03,ja_01,sesja_06,13,wzrok,popoludniu,1,0.05,1,401,1,TP
+2026-03-10T15:23:04,ja_01,sesja_06,14,wzrok,popoludniu,0,0.0,0,361,1,TN
+2026-03-10T15:23:05,ja_01,sesja_06,15,wzrok,popoludniu,0,0.0,0,618,1,TN
+2026-03-10T15:23:06,ja_01,sesja_06,16,wzrok,popoludniu,0,0.0,0,466,1,TN
+2026-03-10T15:23:07,ja_01,sesja_06,17,wzrok,popoludniu,1,0.01,0,379,0,FN
+2026-03-10T15:23:08,ja_01,sesja_06,18,wzrok,popoludniu,1,0.05,1,463,1,TP
+2026-03-10T15:23:10,ja_01,sesja_06,19,wzrok,popoludniu,0,0.0,0,1402,1,TN
+2026-03-10T15:23:11,ja_01,sesja_06,20,wzrok,popoludniu,0,0.0,0,401,1,TN
+2026-03-10T15:23:12,ja_01,sesja_06,21,wzrok,popoludniu,1,0.03,1,376,1,TP
+2026-03-10T15:23:13,ja_01,sesja_06,22,wzrok,popoludniu,1,0.09,1,466,1,TP
+2026-03-10T15:23:14,ja_01,sesja_06,23,wzrok,popoludniu,0,0.0,0,360,1,TN
+2026-03-10T15:23:16,ja_01,sesja_06,24,wzrok,popoludniu,0,0.0,0,1117,1,TN
+2026-03-10T15:23:17,ja_01,sesja_06,25,wzrok,popoludniu,1,0.07,1,398,1,TP
+2026-03-10T15:23:18,ja_01,sesja_06,26,wzrok,popoludniu,1,0.01,0,491,0,FN
+2026-03-10T15:23:20,ja_01,sesja_06,27,wzrok,popoludniu,0,0.0,0,661,1,TN
+2026-03-10T15:23:21,ja_01,sesja_06,28,wzrok,popoludniu,1,0.03,1,507,1,TP
+2026-03-10T15:23:22,ja_01,sesja_06,29,wzrok,popoludniu,1,0.07,1,358,1,TP
+2026-03-10T15:23:23,ja_01,sesja_06,30,wzrok,popoludniu,0,0.0,0,273,1,TN
+2026-03-10T15:23:24,ja_01,sesja_06,31,wzrok,popoludniu,0,0.0,0,467,1,TN
+2026-03-10T15:23:25,ja_01,sesja_06,32,wzrok,popoludniu,1,0.01,0,335,0,FN
+2026-03-10T15:23:26,ja_01,sesja_06,33,wzrok,popoludniu,0,0.0,0,380,1,TN
+2026-03-10T15:23:27,ja_01,sesja_06,34,wzrok,popoludniu,0,0.0,0,380,1,TN
+2026-03-10T15:23:28,ja_01,sesja_06,35,wzrok,popoludniu,0,0.0,0,445,1,TN
+2026-03-10T15:23:29,ja_01,sesja_06,36,wzrok,popoludniu,0,0.0,0,380,1,TN
+2026-03-10T15:23:30,ja_01,sesja_06,37,wzrok,popoludniu,1,0.05,1,312,1,TP
+2026-03-10T15:23:31,ja_01,sesja_06,38,wzrok,popoludniu,1,0.01,0,426,0,FN
+2026-03-10T15:23:32,ja_01,sesja_06,39,wzrok,popoludniu,0,0.0,0,553,1,TN
+2026-03-10T15:23:33,ja_01,sesja_06,40,wzrok,popoludniu,0,0.0,0,357,1,TN
+2026-03-10T15:23:35,ja_01,sesja_06,41,wzrok,popoludniu,0,0.0,0,1182,1,TN
+2026-03-10T15:23:36,ja_01,sesja_06,42,wzrok,popoludniu,0,0.0,0,249,1,TN
+2026-03-10T15:23:37,ja_01,sesja_06,43,wzrok,popoludniu,1,0.01,0,293,0,FN
+2026-03-10T15:23:38,ja_01,sesja_06,44,wzrok,popoludniu,1,0.05,1,463,1,TP
+2026-03-10T15:23:39,ja_01,sesja_06,45,wzrok,popoludniu,1,0.09,1,400,1,TP
+2026-03-10T15:23:40,ja_01,sesja_06,46,wzrok,popoludniu,1,0.01,0,1077,0,FN
+2026-03-10T15:23:42,ja_01,sesja_06,47,wzrok,popoludniu,0,0.0,0,574,1,TN
+2026-03-10T15:23:43,ja_01,sesja_06,48,wzrok,popoludniu,0,0.0,0,532,1,TN
+2026-03-10T15:23:44,ja_01,sesja_06,49,wzrok,popoludniu,0,0.0,0,467,1,TN
+2026-03-10T15:23:45,ja_01,sesja_06,50,wzrok,popoludniu,0,0.0,0,488,1,TN
+2026-03-10T15:23:46,ja_01,sesja_06,51,wzrok,popoludniu,1,0.07,1,420,1,TP
+2026-03-10T15:23:47,ja_01,sesja_06,52,wzrok,popoludniu,1,0.09,1,292,1,TP
+2026-03-10T15:23:48,ja_01,sesja_06,53,wzrok,popoludniu,1,0.07,1,271,1,TP
+2026-03-10T15:23:49,ja_01,sesja_06,54,wzrok,popoludniu,1,0.01,0,598,0,FN
+2026-03-10T15:23:50,ja_01,sesja_06,55,wzrok,popoludniu,0,0.0,0,315,1,TN
+2026-03-10T15:23:51,ja_01,sesja_06,56,wzrok,popoludniu,1,0.01,0,401,0,FN
+2026-03-10T15:23:52,ja_01,sesja_06,57,wzrok,popoludniu,0,0.0,0,272,1,TN
+2026-03-10T15:23:53,ja_01,sesja_06,58,wzrok,popoludniu,0,0.0,0,379,1,TN
+2026-03-10T15:23:54,ja_01,sesja_06,59,wzrok,popoludniu,1,0.05,1,486,1,TP
+2026-03-10T15:23:55,ja_01,sesja_06,60,wzrok,popoludniu,1,0.09,1,336,1,TP
+2026-03-10T15:23:56,ja_01,sesja_06,61,wzrok,popoludniu,1,0.01,0,273,0,FN
+2026-03-10T15:23:57,ja_01,sesja_06,62,wzrok,popoludniu,1,0.01,0,336,0,FN
+2026-03-10T15:23:58,ja_01,sesja_06,63,wzrok,popoludniu,1,0.05,1,247,1,TP
+2026-03-10T15:23:59,ja_01,sesja_06,64,wzrok,popoludniu,1,0.01,0,577,0,FN
+2026-03-10T15:24:00,ja_01,sesja_06,65,wzrok,popoludniu,0,0.0,0,380,1,TN
+2026-03-10T15:24:01,ja_01,sesja_06,66,wzrok,popoludniu,1,0.05,1,225,1,TP
+2026-03-10T15:24:03,ja_01,sesja_06,67,wzrok,popoludniu,0,0.0,0,1380,1,TN
+2026-03-10T15:24:04,ja_01,sesja_06,68,wzrok,popoludniu,0,0.0,0,314,1,TN
+2026-03-10T15:24:05,ja_01,sesja_06,69,wzrok,popoludniu,1,0.01,0,532,0,FN
+2026-03-10T15:24:06,ja_01,sesja_06,70,wzrok,popoludniu,1,0.03,1,810,1,TP
+2026-03-10T15:24:08,ja_01,sesja_06,71,wzrok,popoludniu,1,0.01,0,1424,0,FN
+2026-03-10T15:24:09,ja_01,sesja_06,72,wzrok,popoludniu,0,0.0,0,380,1,TN
+2026-03-10T15:24:10,ja_01,sesja_06,73,wzrok,popoludniu,0,0.0,0,357,1,TN
+2026-03-10T15:24:11,ja_01,sesja_06,74,wzrok,popoludniu,1,0.07,1,420,1,TP
+2026-03-10T15:24:14,ja_01,sesja_06,75,wzrok,popoludniu,0,0.0,0,,1,TN
+2026-03-10T15:24:15,ja_01,sesja_06,76,wzrok,popoludniu,0,0.0,0,929,1,TN
+2026-03-10T15:24:16,ja_01,sesja_06,77,wzrok,popoludniu,0,0.0,0,575,1,TN
+2026-03-10T15:24:17,ja_01,sesja_06,78,wzrok,popoludniu,0,0.0,0,401,1,TN
+2026-03-10T15:24:19,ja_01,sesja_06,79,wzrok,popoludniu,1,0.09,1,963,1,TP
+2026-03-10T15:24:20,ja_01,sesja_06,80,wzrok,popoludniu,1,0.07,1,401,1,TP
+2026-03-10T15:24:21,ja_01,sesja_06,81,wzrok,popoludniu,0,0.0,0,317,1,TN
+2026-03-10T15:24:22,ja_01,sesja_06,82,wzrok,popoludniu,1,0.05,1,399,1,TP
+2026-03-10T15:24:23,ja_01,sesja_06,83,wzrok,popoludniu,0,0.0,0,534,1,TN
+2026-03-10T15:24:24,ja_01,sesja_06,84,wzrok,popoludniu,0,0.0,0,336,1,TN
+2026-03-10T15:24:25,ja_01,sesja_06,85,wzrok,popoludniu,1,0.07,1,398,1,TP
+2026-03-10T15:24:26,ja_01,sesja_06,86,wzrok,popoludniu,1,0.03,1,401,1,TP
+2026-03-10T15:24:27,ja_01,sesja_06,87,wzrok,popoludniu,0,0.0,0,317,1,TN
+2026-03-10T15:24:28,ja_01,sesja_06,88,wzrok,popoludniu,0,0.0,0,292,1,TN
+2026-03-10T15:24:29,ja_01,sesja_06,89,wzrok,popoludniu,1,0.03,1,333,1,TP
+2026-03-10T15:24:30,ja_01,sesja_06,90,wzrok,popoludniu,1,0.07,1,380,1,TP
+2026-03-10T15:24:31,ja_01,sesja_06,91,wzrok,popoludniu,0,0.0,0,360,1,TN
+2026-03-10T15:24:32,ja_01,sesja_06,92,wzrok,popoludniu,0,0.0,0,596,1,TN
+2026-03-10T15:24:33,ja_01,sesja_06,93,wzrok,popoludniu,0,0.0,0,445,1,TN
+2026-03-10T15:24:35,ja_01,sesja_06,94,wzrok,popoludniu,1,0.01,0,727,0,FN
+2026-03-10T15:24:36,ja_01,sesja_06,95,wzrok,popoludniu,1,0.07,1,398,1,TP
+2026-03-10T15:24:37,ja_01,sesja_06,96,wzrok,popoludniu,0,0.0,0,404,1,TN
+2026-03-10T15:24:38,ja_01,sesja_06,97,wzrok,popoludniu,1,0.05,1,312,1,TP
+2026-03-10T15:24:38,ja_01,sesja_06,98,wzrok,popoludniu,1,0.05,1,293,1,TP
+2026-03-10T15:24:39,ja_01,sesja_06,99,wzrok,popoludniu,1,0.07,1,227,1,TP
+2026-03-10T15:24:40,ja_01,sesja_06,100,wzrok,popoludniu,0,0.0,0,252,1,TN
+2026-03-10T16:00:40,ja_01,sesja_07,1,wzrok,po pracy,1,0.03,1,832,1,TP
+2026-03-10T16:00:41,ja_01,sesja_07,2,wzrok,po pracy,1,0.05,1,336,1,TP
+2026-03-10T16:00:42,ja_01,sesja_07,3,wzrok,po pracy,0,0.0,0,406,1,TN
+2026-03-10T16:00:44,ja_01,sesja_07,4,wzrok,po pracy,1,0.03,1,442,1,TP
+2026-03-10T16:00:45,ja_01,sesja_07,5,wzrok,po pracy,0,0.0,0,404,1,TN
+2026-03-10T16:00:46,ja_01,sesja_07,6,wzrok,po pracy,0,0.0,0,380,1,TN
+2026-03-10T16:00:47,ja_01,sesja_07,7,wzrok,po pracy,0,0.0,0,400,1,TN
+2026-03-10T16:00:48,ja_01,sesja_07,8,wzrok,po pracy,1,0.07,1,290,1,TP
+2026-03-10T16:00:48,ja_01,sesja_07,9,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-10T16:00:50,ja_01,sesja_07,10,wzrok,po pracy,1,0.01,0,553,0,FN
+2026-03-10T16:00:51,ja_01,sesja_07,11,wzrok,po pracy,0,0.0,0,358,1,TN
+2026-03-10T16:00:52,ja_01,sesja_07,12,wzrok,po pracy,0,0.0,0,358,1,TN
+2026-03-10T16:00:53,ja_01,sesja_07,13,wzrok,po pracy,1,0.09,1,312,1,TP
+2026-03-10T16:00:53,ja_01,sesja_07,14,wzrok,po pracy,0,0.0,0,274,1,TN
+2026-03-10T16:00:54,ja_01,sesja_07,15,wzrok,po pracy,0,0.0,0,337,1,TN
+2026-03-10T16:00:55,ja_01,sesja_07,16,wzrok,po pracy,0,0.0,0,315,1,TN
+2026-03-10T16:00:56,ja_01,sesja_07,17,wzrok,po pracy,1,0.07,1,332,1,TP
+2026-03-10T16:00:57,ja_01,sesja_07,18,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-10T16:00:58,ja_01,sesja_07,19,wzrok,po pracy,1,0.03,0,227,0,FN
+2026-03-10T16:00:59,ja_01,sesja_07,20,wzrok,po pracy,0,0.0,0,553,1,TN
+2026-03-10T16:01:00,ja_01,sesja_07,21,wzrok,po pracy,0,0.0,0,487,1,TN
+2026-03-10T16:01:02,ja_01,sesja_07,22,wzrok,po pracy,1,0.01,1,658,1,TP
+2026-03-10T16:01:03,ja_01,sesja_07,23,wzrok,po pracy,1,0.09,1,574,1,TP
+2026-03-10T16:01:04,ja_01,sesja_07,24,wzrok,po pracy,1,0.03,1,574,1,TP
+2026-03-10T16:01:05,ja_01,sesja_07,25,wzrok,po pracy,1,0.09,1,465,1,TP
+2026-03-10T16:01:06,ja_01,sesja_07,26,wzrok,po pracy,0,0.0,0,665,1,TN
+2026-03-10T16:01:08,ja_01,sesja_07,27,wzrok,po pracy,1,0.07,1,767,1,TP
+2026-03-10T16:01:09,ja_01,sesja_07,28,wzrok,po pracy,0,0.0,0,512,1,TN
+2026-03-10T16:01:10,ja_01,sesja_07,29,wzrok,po pracy,1,0.07,1,290,1,TP
+2026-03-10T16:01:11,ja_01,sesja_07,30,wzrok,po pracy,0,0.0,0,274,1,TN
+2026-03-10T16:01:12,ja_01,sesja_07,31,wzrok,po pracy,0,0.0,0,250,1,TN
+2026-03-10T16:01:13,ja_01,sesja_07,32,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-10T16:01:13,ja_01,sesja_07,33,wzrok,po pracy,1,0.09,1,268,1,TP
+2026-03-10T16:01:14,ja_01,sesja_07,34,wzrok,po pracy,1,0.07,1,226,1,TP
+2026-03-10T16:01:15,ja_01,sesja_07,35,wzrok,po pracy,1,0.09,1,227,1,TP
+2026-03-10T16:01:17,ja_01,sesja_07,36,wzrok,po pracy,0,0.0,0,685,1,TN
+2026-03-10T16:01:17,ja_01,sesja_07,37,wzrok,po pracy,1,0.05,1,268,1,TP
+2026-03-10T16:01:18,ja_01,sesja_07,38,wzrok,po pracy,0,0.0,0,381,1,TN
+2026-03-10T16:01:19,ja_01,sesja_07,39,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-10T16:01:20,ja_01,sesja_07,40,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-10T16:01:21,ja_01,sesja_07,41,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-10T16:01:22,ja_01,sesja_07,42,wzrok,po pracy,1,0.09,1,311,1,TP
+2026-03-10T16:01:23,ja_01,sesja_07,43,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-10T16:01:24,ja_01,sesja_07,44,wzrok,po pracy,1,0.05,1,332,1,TP
+2026-03-10T16:01:25,ja_01,sesja_07,45,wzrok,po pracy,0,0.0,0,316,1,TN
+2026-03-10T16:01:26,ja_01,sesja_07,46,wzrok,po pracy,1,0.03,1,353,1,TP
+2026-03-10T16:01:27,ja_01,sesja_07,47,wzrok,po pracy,1,0.05,1,401,1,TP
+2026-03-10T16:01:28,ja_01,sesja_07,48,wzrok,po pracy,1,0.05,1,356,1,TP
+2026-03-10T16:01:29,ja_01,sesja_07,49,wzrok,po pracy,0,0.0,0,230,1,TN
+2026-03-10T16:01:30,ja_01,sesja_07,50,wzrok,po pracy,1,0.09,1,376,1,TP
+2026-03-10T16:01:31,ja_01,sesja_07,51,wzrok,po pracy,0,0.0,0,491,1,TN
+2026-03-10T16:01:32,ja_01,sesja_07,52,wzrok,po pracy,1,0.07,1,332,1,TP
+2026-03-10T16:01:33,ja_01,sesja_07,53,wzrok,po pracy,0,0.0,0,382,1,TN
+2026-03-10T16:01:34,ja_01,sesja_07,54,wzrok,po pracy,1,0.07,1,246,1,TP
+2026-03-10T16:01:35,ja_01,sesja_07,55,wzrok,po pracy,1,0.07,1,291,1,TP
+2026-03-10T16:01:36,ja_01,sesja_07,56,wzrok,po pracy,0,0.0,0,316,1,TN
+2026-03-10T16:01:36,ja_01,sesja_07,57,wzrok,po pracy,1,0.09,1,311,1,TP
+2026-03-10T16:01:38,ja_01,sesja_07,58,wzrok,po pracy,0,0.0,0,425,1,TN
+2026-03-10T16:01:39,ja_01,sesja_07,59,wzrok,po pracy,1,0.03,1,375,1,TP
+2026-03-10T16:01:39,ja_01,sesja_07,60,wzrok,po pracy,1,0.05,1,249,1,TP
+2026-03-10T16:01:40,ja_01,sesja_07,61,wzrok,po pracy,1,0.09,1,335,1,TP
+2026-03-10T16:01:41,ja_01,sesja_07,62,wzrok,po pracy,1,0.01,0,360,0,FN
+2026-03-10T16:01:42,ja_01,sesja_07,63,wzrok,po pracy,1,0.03,1,442,1,TP
+2026-03-10T16:01:43,ja_01,sesja_07,64,wzrok,po pracy,1,0.01,0,294,0,FN
+2026-03-10T16:01:44,ja_01,sesja_07,65,wzrok,po pracy,0,0.0,0,315,1,TN
+2026-03-10T16:01:45,ja_01,sesja_07,66,wzrok,po pracy,1,0.05,1,376,1,TP
+2026-03-10T16:01:46,ja_01,sesja_07,67,wzrok,po pracy,1,0.09,1,227,1,TP
+2026-03-10T16:01:47,ja_01,sesja_07,68,wzrok,po pracy,1,0.09,1,140,1,TP
+2026-03-10T16:01:48,ja_01,sesja_07,69,wzrok,po pracy,0,0.0,0,273,1,TN
+2026-03-10T16:01:49,ja_01,sesja_07,70,wzrok,po pracy,0,0.0,0,357,1,TN
+2026-03-10T16:01:50,ja_01,sesja_07,71,wzrok,po pracy,0,0.0,0,292,1,TN
+2026-03-10T16:01:51,ja_01,sesja_07,72,wzrok,po pracy,0,0.0,0,249,1,TN
+2026-03-10T16:01:51,ja_01,sesja_07,73,wzrok,po pracy,0,0.0,0,249,1,TN
+2026-03-10T16:01:52,ja_01,sesja_07,74,wzrok,po pracy,1,0.03,1,332,1,TP
+2026-03-10T16:01:53,ja_01,sesja_07,75,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-10T16:01:54,ja_01,sesja_07,76,wzrok,po pracy,0,0.0,0,378,1,TN
+2026-03-10T16:01:55,ja_01,sesja_07,77,wzrok,po pracy,1,0.09,1,290,1,TP
+2026-03-10T16:01:56,ja_01,sesja_07,78,wzrok,po pracy,0,0.0,0,273,1,TN
+2026-03-10T16:01:57,ja_01,sesja_07,79,wzrok,po pracy,0,0.0,0,292,1,TN
+2026-03-10T16:01:58,ja_01,sesja_07,80,wzrok,po pracy,1,0.03,1,269,1,TP
+2026-03-10T16:01:59,ja_01,sesja_07,81,wzrok,po pracy,1,0.03,1,357,1,TP
+2026-03-10T16:02:00,ja_01,sesja_07,82,wzrok,po pracy,1,0.05,1,292,1,TP
+2026-03-10T16:02:01,ja_01,sesja_07,83,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-10T16:02:02,ja_01,sesja_07,84,wzrok,po pracy,1,0.09,0,162,0,FN
+2026-03-10T16:02:03,ja_01,sesja_07,85,wzrok,po pracy,0,0.0,0,531,1,TN
+2026-03-10T16:02:04,ja_01,sesja_07,86,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-10T16:02:05,ja_01,sesja_07,87,wzrok,po pracy,1,0.03,1,288,1,TP
+2026-03-10T16:02:06,ja_01,sesja_07,88,wzrok,po pracy,0,0.0,0,360,1,TN
+2026-03-10T16:02:07,ja_01,sesja_07,89,wzrok,po pracy,1,0.09,1,181,1,TP
+2026-03-10T16:02:07,ja_01,sesja_07,90,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-10T16:02:08,ja_01,sesja_07,91,wzrok,po pracy,0,0.0,0,292,1,TN
+2026-03-10T16:02:09,ja_01,sesja_07,92,wzrok,po pracy,1,0.07,1,204,1,TP
+2026-03-10T16:02:10,ja_01,sesja_07,93,wzrok,po pracy,1,0.05,1,270,1,TP
+2026-03-10T16:02:11,ja_01,sesja_07,94,wzrok,po pracy,1,0.07,1,248,1,TP
+2026-03-10T16:02:12,ja_01,sesja_07,95,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-10T16:02:13,ja_01,sesja_07,96,wzrok,po pracy,1,0.09,1,246,1,TP
+2026-03-10T16:02:14,ja_01,sesja_07,97,wzrok,po pracy,0,0.0,0,295,1,TN
+2026-03-10T16:02:15,ja_01,sesja_07,98,wzrok,po pracy,0,0.0,1,247,0,FP
+2026-03-10T16:02:17,ja_01,sesja_07,99,wzrok,po pracy,0,0.0,0,,1,TN
+2026-03-10T16:02:18,ja_01,sesja_07,100,wzrok,po pracy,1,0.03,1,294,1,TP
+2026-03-11T20:56:49,ja_01,sesja_08,1,wzrok,wieczor,1,0.05,1,373,1,TP
+2026-03-11T20:56:50,ja_01,sesja_08,2,wzrok,wieczor,0,0.0,0,404,1,TN
+2026-03-11T20:56:51,ja_01,sesja_08,3,wzrok,wieczor,1,0.01,0,335,0,FN
+2026-03-11T20:56:52,ja_01,sesja_08,4,wzrok,wieczor,0,0.0,0,271,1,TN
+2026-03-11T20:56:53,ja_01,sesja_08,5,wzrok,wieczor,0,0.0,0,379,1,TN
+2026-03-11T20:56:54,ja_01,sesja_08,6,wzrok,wieczor,1,0.05,1,507,1,TP
+2026-03-11T20:56:55,ja_01,sesja_08,7,wzrok,wieczor,1,0.09,1,335,1,TP
+2026-03-11T20:56:56,ja_01,sesja_08,8,wzrok,wieczor,0,0.0,0,556,1,TN
+2026-03-11T20:56:58,ja_01,sesja_08,9,wzrok,wieczor,0,0.0,0,900,1,TN
+2026-03-11T20:56:59,ja_01,sesja_08,10,wzrok,wieczor,1,0.03,1,332,1,TP
+2026-03-11T20:57:00,ja_01,sesja_08,11,wzrok,wieczor,0,0.0,1,184,0,FP
+2026-03-11T20:57:01,ja_01,sesja_08,12,wzrok,wieczor,1,0.005,0,578,0,FN
+2026-03-11T20:57:02,ja_01,sesja_08,13,wzrok,wieczor,1,0.09,1,268,1,TP
+2026-03-11T20:57:03,ja_01,sesja_08,14,wzrok,wieczor,1,0.09,1,966,1,TP
+2026-03-11T20:57:04,ja_01,sesja_08,15,wzrok,wieczor,0,0.0,0,208,1,TN
+2026-03-11T20:57:05,ja_01,sesja_08,16,wzrok,wieczor,1,0.01,0,358,0,FN
+2026-03-11T20:57:06,ja_01,sesja_08,17,wzrok,wieczor,0,0.0,0,466,1,TN
+2026-03-11T20:57:07,ja_01,sesja_08,18,wzrok,wieczor,0,0.0,0,314,1,TN
+2026-03-11T20:57:08,ja_01,sesja_08,19,wzrok,wieczor,1,0.07,1,333,1,TP
+2026-03-11T20:57:09,ja_01,sesja_08,20,wzrok,wieczor,1,0.01,0,339,0,FN
+2026-03-11T20:57:10,ja_01,sesja_08,21,wzrok,wieczor,0,0.0,0,596,1,TN
+2026-03-11T20:57:11,ja_01,sesja_08,22,wzrok,wieczor,1,0.03,1,355,1,TP
+2026-03-11T20:57:13,ja_01,sesja_08,23,wzrok,wieczor,0,0.0,0,621,1,TN
+2026-03-11T20:57:14,ja_01,sesja_08,24,wzrok,wieczor,0,0.0,0,314,1,TN
+2026-03-11T20:57:15,ja_01,sesja_08,25,wzrok,wieczor,0,0.0,0,292,1,TN
+2026-03-11T20:57:15,ja_01,sesja_08,26,wzrok,wieczor,0,0.0,0,271,1,TN
+2026-03-11T20:57:16,ja_01,sesja_08,27,wzrok,wieczor,0,0.0,0,207,1,TN
+2026-03-11T20:57:18,ja_01,sesja_08,28,wzrok,wieczor,1,0.005,0,1160,0,FN
+2026-03-11T20:57:19,ja_01,sesja_08,29,wzrok,wieczor,0,0.0,1,421,0,FP
+2026-03-11T20:57:20,ja_01,sesja_08,30,wzrok,wieczor,1,0.09,1,531,1,TP
+2026-03-11T20:57:22,ja_01,sesja_08,31,wzrok,wieczor,0,0.0,0,1251,1,TN
+2026-03-11T20:57:23,ja_01,sesja_08,32,wzrok,wieczor,0,0.0,0,229,1,TN
+2026-03-11T20:57:24,ja_01,sesja_08,33,wzrok,wieczor,0,0.0,0,314,1,TN
+2026-03-11T20:57:25,ja_01,sesja_08,34,wzrok,wieczor,1,0.07,1,354,1,TP
+2026-03-11T20:57:26,ja_01,sesja_08,35,wzrok,wieczor,1,0.01,0,599,0,FN
+2026-03-11T20:57:28,ja_01,sesja_08,36,wzrok,wieczor,0,0.0,0,922,1,TN
+2026-03-11T20:57:28,ja_01,sesja_08,37,wzrok,wieczor,1,0.09,1,138,1,TP
+2026-03-11T20:57:29,ja_01,sesja_08,38,wzrok,wieczor,0,0.0,0,165,1,TN
+2026-03-11T20:57:30,ja_01,sesja_08,39,wzrok,wieczor,0,0.0,1,334,0,FP
+2026-03-11T20:57:31,ja_01,sesja_08,40,wzrok,wieczor,1,0.09,1,228,1,TP
+2026-03-11T20:57:32,ja_01,sesja_08,41,wzrok,wieczor,0,0.0,0,273,1,TN
+2026-03-11T20:57:33,ja_01,sesja_08,42,wzrok,wieczor,1,0.005,0,618,0,FN
+2026-03-11T20:57:34,ja_01,sesja_08,43,wzrok,wieczor,0,0.0,0,358,1,TN
+2026-03-11T20:57:35,ja_01,sesja_08,44,wzrok,wieczor,1,0.09,1,333,1,TP
+2026-03-11T20:57:37,ja_01,sesja_08,45,wzrok,wieczor,0,0.0,0,1230,1,TN
+2026-03-11T20:57:38,ja_01,sesja_08,46,wzrok,wieczor,1,0.03,1,268,1,TP
+2026-03-11T20:57:39,ja_01,sesja_08,47,wzrok,wieczor,0,0.0,0,535,1,TN
+2026-03-11T20:57:40,ja_01,sesja_08,48,wzrok,wieczor,0,0.0,0,467,1,TN
+2026-03-11T20:57:41,ja_01,sesja_08,49,wzrok,wieczor,1,0.07,1,377,1,TP
+2026-03-11T20:57:42,ja_01,sesja_08,50,wzrok,wieczor,1,0.07,1,553,1,TP
+2026-03-11T20:57:43,ja_01,sesja_08,51,wzrok,wieczor,1,0.005,0,317,0,FN
+2026-03-11T20:57:44,ja_01,sesja_08,52,wzrok,wieczor,1,0.05,1,442,1,TP
+2026-03-11T20:57:45,ja_01,sesja_08,53,wzrok,wieczor,0,0.0,0,361,1,TN
+2026-03-11T20:57:46,ja_01,sesja_08,54,wzrok,wieczor,0,0.0,0,357,1,TN
+2026-03-11T20:57:47,ja_01,sesja_08,55,wzrok,wieczor,1,0.07,1,291,1,TP
+2026-03-11T20:57:48,ja_01,sesja_08,56,wzrok,wieczor,1,0.03,1,379,1,TP
+2026-03-11T20:57:49,ja_01,sesja_08,57,wzrok,wieczor,0,0.0,0,232,1,TN
+2026-03-11T20:57:50,ja_01,sesja_08,58,wzrok,wieczor,0,0.0,0,249,1,TN
+2026-03-11T20:57:51,ja_01,sesja_08,59,wzrok,wieczor,0,0.0,0,510,1,TN
+2026-03-11T20:57:52,ja_01,sesja_08,60,wzrok,wieczor,1,0.09,1,311,1,TP
+2026-03-11T20:57:53,ja_01,sesja_08,61,wzrok,wieczor,0,0.0,0,348,1,TN
+2026-03-11T20:57:54,ja_01,sesja_08,62,wzrok,wieczor,0,0.0,0,184,1,TN
+2026-03-11T20:57:55,ja_01,sesja_08,63,wzrok,wieczor,0,0.0,0,249,1,TN
+2026-03-11T20:57:56,ja_01,sesja_08,64,wzrok,wieczor,1,0.05,1,311,1,TP
+2026-03-11T20:57:56,ja_01,sesja_08,65,wzrok,wieczor,0,0.0,0,187,1,TN
+2026-03-11T20:57:57,ja_01,sesja_08,66,wzrok,wieczor,0,0.0,0,184,1,TN
+2026-03-11T20:57:58,ja_01,sesja_08,67,wzrok,wieczor,1,0.005,0,336,0,FN
+2026-03-11T20:57:59,ja_01,sesja_08,68,wzrok,wieczor,1,0.03,1,247,1,TP
+2026-03-11T20:58:00,ja_01,sesja_08,69,wzrok,wieczor,1,0.09,1,249,1,TP
+2026-03-11T20:58:01,ja_01,sesja_08,70,wzrok,wieczor,1,0.05,1,205,1,TP
+2026-03-11T20:58:02,ja_01,sesja_08,71,wzrok,wieczor,1,0.07,1,162,1,TP
+2026-03-11T20:58:03,ja_01,sesja_08,72,wzrok,wieczor,1,0.07,1,293,1,TP
+2026-03-11T20:58:03,ja_01,sesja_08,73,wzrok,wieczor,1,0.07,1,293,1,TP
+2026-03-11T20:58:04,ja_01,sesja_08,74,wzrok,wieczor,0,0.0,0,253,1,TN
+2026-03-11T20:58:05,ja_01,sesja_08,75,wzrok,wieczor,0,0.0,0,206,1,TN
+2026-03-11T20:58:06,ja_01,sesja_08,76,wzrok,wieczor,1,0.005,0,184,0,FN
+2026-03-11T20:58:07,ja_01,sesja_08,77,wzrok,wieczor,0,0.0,0,163,1,TN
+2026-03-11T20:58:08,ja_01,sesja_08,78,wzrok,wieczor,0,0.0,0,162,1,TN
+2026-03-11T20:58:09,ja_01,sesja_08,79,wzrok,wieczor,1,0.09,1,290,1,TP
+2026-03-11T20:58:09,ja_01,sesja_08,80,wzrok,wieczor,1,0.05,1,336,1,TP
+2026-03-11T20:58:10,ja_01,sesja_08,81,wzrok,wieczor,0,0.0,0,317,1,TN
+2026-03-11T20:58:11,ja_01,sesja_08,82,wzrok,wieczor,0,0.0,0,294,1,TN
+2026-03-11T20:58:12,ja_01,sesja_08,83,wzrok,wieczor,0,0.0,0,531,1,TN
+2026-03-11T20:58:13,ja_01,sesja_08,84,wzrok,wieczor,1,0.05,1,376,1,TP
+2026-03-11T20:58:14,ja_01,sesja_08,85,wzrok,wieczor,0,0.0,0,275,1,TN
+2026-03-11T20:58:15,ja_01,sesja_08,86,wzrok,wieczor,0,0.0,0,227,1,TN
+2026-03-11T20:58:16,ja_01,sesja_08,87,wzrok,wieczor,1,0.05,1,311,1,TP
+2026-03-11T20:58:17,ja_01,sesja_08,88,wzrok,wieczor,0,0.0,0,426,1,TN
+2026-03-11T20:58:18,ja_01,sesja_08,89,wzrok,wieczor,1,0.07,1,290,1,TP
+2026-03-11T20:58:19,ja_01,sesja_08,90,wzrok,wieczor,1,0.005,0,295,0,FN
+2026-03-11T20:58:20,ja_01,sesja_08,91,wzrok,wieczor,0,0.0,0,228,1,TN
+2026-03-11T20:58:21,ja_01,sesja_08,92,wzrok,wieczor,0,0.0,0,229,1,TN
+2026-03-11T20:58:22,ja_01,sesja_08,93,wzrok,wieczor,1,0.01,0,205,0,FN
+2026-03-11T20:58:23,ja_01,sesja_08,94,wzrok,wieczor,1,0.07,1,268,1,TP
+2026-03-11T20:58:23,ja_01,sesja_08,95,wzrok,wieczor,1,0.09,1,163,1,TP
+2026-03-11T20:58:24,ja_01,sesja_08,96,wzrok,wieczor,1,0.09,1,140,1,TP
+2026-03-11T20:58:25,ja_01,sesja_08,97,wzrok,wieczor,1,0.03,1,163,1,TP
+2026-03-11T20:58:26,ja_01,sesja_08,98,wzrok,wieczor,1,0.07,1,271,1,TP
+2026-03-11T20:58:27,ja_01,sesja_08,99,wzrok,wieczor,0,0.0,0,208,1,TN
+2026-03-11T20:58:27,ja_01,sesja_08,100,wzrok,wieczor,1,0.03,0,184,0,FN
+2026-03-16T17:40:40,ja_01,sesja_09,1,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-16T17:40:41,ja_01,sesja_09,2,wzrok,po pracy,0,0.0,0,379,1,TN
+2026-03-16T17:40:42,ja_01,sesja_09,3,wzrok,po pracy,1,0.005,0,399,0,FN
+2026-03-16T17:40:43,ja_01,sesja_09,4,wzrok,po pracy,0,0.0,0,379,1,TN
+2026-03-16T17:40:44,ja_01,sesja_09,5,wzrok,po pracy,0,0.0,0,357,1,TN
+2026-03-16T17:40:45,ja_01,sesja_09,6,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-16T17:40:45,ja_01,sesja_09,7,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-16T17:40:46,ja_01,sesja_09,8,wzrok,po pracy,0,0.0,0,270,1,TN
+2026-03-16T17:40:48,ja_01,sesja_09,9,wzrok,po pracy,0,0.0,0,531,1,TN
+2026-03-16T17:40:49,ja_01,sesja_09,10,wzrok,po pracy,0,0.0,0,378,1,TN
+2026-03-16T17:40:49,ja_01,sesja_09,11,wzrok,po pracy,0,0.0,0,292,1,TN
+2026-03-16T17:40:50,ja_01,sesja_09,12,wzrok,po pracy,0,0.0,0,292,1,TN
+2026-03-16T17:40:51,ja_01,sesja_09,13,wzrok,po pracy,1,0.03,1,420,1,TP
+2026-03-16T17:40:53,ja_01,sesja_09,14,wzrok,po pracy,1,0.005,0,1465,0,FN
+2026-03-16T17:40:55,ja_01,sesja_09,15,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-16T17:40:56,ja_01,sesja_09,16,wzrok,po pracy,0,0.0,0,379,1,TN
+2026-03-16T17:40:56,ja_01,sesja_09,17,wzrok,po pracy,1,0.05,1,310,1,TP
+2026-03-16T17:40:58,ja_01,sesja_09,18,wzrok,po pracy,0,0.0,0,577,1,TN
+2026-03-16T17:40:59,ja_01,sesja_09,19,wzrok,po pracy,0,0.0,0,465,1,TN
+2026-03-16T17:41:01,ja_01,sesja_09,20,wzrok,po pracy,0,0.0,0,,1,TN
+2026-03-16T17:41:03,ja_01,sesja_09,21,wzrok,po pracy,0,0.0,0,1294,1,TN
+2026-03-16T17:41:04,ja_01,sesja_09,22,wzrok,po pracy,1,0.01,0,420,0,FN
+2026-03-16T17:41:05,ja_01,sesja_09,23,wzrok,po pracy,1,0.03,1,485,1,TP
+2026-03-16T17:41:06,ja_01,sesja_09,24,wzrok,po pracy,0,0.0,0,468,1,TN
+2026-03-16T17:41:07,ja_01,sesja_09,25,wzrok,po pracy,1,0.09,1,442,1,TP
+2026-03-16T17:41:08,ja_01,sesja_09,26,wzrok,po pracy,0,0.0,0,468,1,TN
+2026-03-16T17:41:09,ja_01,sesja_09,27,wzrok,po pracy,0,0.0,0,466,1,TN
+2026-03-16T17:41:11,ja_01,sesja_09,28,wzrok,po pracy,1,0.01,0,1485,0,FN
+2026-03-16T17:41:12,ja_01,sesja_09,29,wzrok,po pracy,1,0.09,1,420,1,TP
+2026-03-16T17:41:14,ja_01,sesja_09,30,wzrok,po pracy,1,0.09,1,422,1,TP
+2026-03-16T17:41:15,ja_01,sesja_09,31,wzrok,po pracy,1,0.05,1,444,1,TP
+2026-03-16T17:41:16,ja_01,sesja_09,32,wzrok,po pracy,0,0.0,0,555,1,TN
+2026-03-16T17:41:17,ja_01,sesja_09,33,wzrok,po pracy,1,0.09,1,831,1,TP
+2026-03-16T17:41:18,ja_01,sesja_09,34,wzrok,po pracy,1,0.07,1,379,1,TP
+2026-03-16T17:41:19,ja_01,sesja_09,35,wzrok,po pracy,0,0.0,0,577,1,TN
+2026-03-16T17:41:21,ja_01,sesja_09,36,wzrok,po pracy,1,0.07,1,593,1,TP
+2026-03-16T17:41:22,ja_01,sesja_09,37,wzrok,po pracy,1,0.03,0,923,0,FN
+2026-03-16T17:41:23,ja_01,sesja_09,38,wzrok,po pracy,0,0.0,0,378,1,TN
+2026-03-16T17:41:24,ja_01,sesja_09,39,wzrok,po pracy,1,0.07,1,311,1,TP
+2026-03-16T17:41:26,ja_01,sesja_09,40,wzrok,po pracy,1,0.09,1,835,1,TP
+2026-03-16T17:41:27,ja_01,sesja_09,41,wzrok,po pracy,1,0.09,1,335,1,TP
+2026-03-16T17:41:28,ja_01,sesja_09,42,wzrok,po pracy,0,0.0,0,383,1,TN
+2026-03-16T17:41:29,ja_01,sesja_09,43,wzrok,po pracy,1,0.01,0,1202,0,FN
+2026-03-16T17:41:31,ja_01,sesja_09,44,wzrok,po pracy,0,0.0,0,617,1,TN
+2026-03-16T17:41:32,ja_01,sesja_09,45,wzrok,po pracy,0,0.0,0,509,1,TN
+2026-03-16T17:41:33,ja_01,sesja_09,46,wzrok,po pracy,1,0.005,0,401,0,FN
+2026-03-16T17:41:34,ja_01,sesja_09,47,wzrok,po pracy,0,0.0,0,378,1,TN
+2026-03-16T17:41:35,ja_01,sesja_09,48,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-16T17:41:36,ja_01,sesja_09,49,wzrok,po pracy,1,0.07,1,427,1,TP
+2026-03-16T17:41:37,ja_01,sesja_09,50,wzrok,po pracy,1,0.05,1,379,1,TP
+2026-03-16T17:41:38,ja_01,sesja_09,51,wzrok,po pracy,1,0.03,1,617,1,TP
+2026-03-16T17:41:39,ja_01,sesja_09,52,wzrok,po pracy,1,0.09,1,205,1,TP
+2026-03-16T17:41:40,ja_01,sesja_09,53,wzrok,po pracy,0,0.0,1,444,0,FP
+2026-03-16T17:41:41,ja_01,sesja_09,54,wzrok,po pracy,1,0.03,1,465,1,TP
+2026-03-16T17:41:42,ja_01,sesja_09,55,wzrok,po pracy,1,0.01,0,424,0,FN
+2026-03-16T17:41:43,ja_01,sesja_09,56,wzrok,po pracy,0,0.0,0,400,1,TN
+2026-03-16T17:41:44,ja_01,sesja_09,57,wzrok,po pracy,0,0.0,0,445,1,TN
+2026-03-16T17:41:46,ja_01,sesja_09,58,wzrok,po pracy,1,0.01,0,595,0,FN
+2026-03-16T17:41:47,ja_01,sesja_09,59,wzrok,po pracy,1,0.03,1,376,1,TP
+2026-03-16T17:41:48,ja_01,sesja_09,60,wzrok,po pracy,1,0.05,1,357,1,TP
+2026-03-16T17:41:49,ja_01,sesja_09,61,wzrok,po pracy,1,0.01,0,641,0,FN
+2026-03-16T17:41:50,ja_01,sesja_09,62,wzrok,po pracy,1,0.05,1,397,1,TP
+2026-03-16T17:41:51,ja_01,sesja_09,63,wzrok,po pracy,1,0.005,0,425,0,FN
+2026-03-16T17:41:53,ja_01,sesja_09,64,wzrok,po pracy,1,0.01,0,1137,0,FN
+2026-03-16T17:41:54,ja_01,sesja_09,65,wzrok,po pracy,1,0.005,0,401,0,FN
+2026-03-16T17:41:55,ja_01,sesja_09,66,wzrok,po pracy,1,0.07,1,332,1,TP
+2026-03-16T17:41:56,ja_01,sesja_09,67,wzrok,po pracy,1,0.05,0,576,0,FN
+2026-03-16T17:41:57,ja_01,sesja_09,68,wzrok,po pracy,0,0.0,0,365,1,TN
+2026-03-16T17:41:58,ja_01,sesja_09,69,wzrok,po pracy,0,0.0,0,530,1,TN
+2026-03-16T17:41:59,ja_01,sesja_09,70,wzrok,po pracy,1,0.005,0,465,0,FN
+2026-03-16T17:42:00,ja_01,sesja_09,71,wzrok,po pracy,0,0.0,0,532,1,TN
+2026-03-16T17:42:01,ja_01,sesja_09,72,wzrok,po pracy,0,0.0,0,380,1,TN
+2026-03-16T17:42:02,ja_01,sesja_09,73,wzrok,po pracy,0,0.0,0,595,1,TN
+2026-03-16T17:42:03,ja_01,sesja_09,74,wzrok,po pracy,0,0.0,0,380,1,TN
+2026-03-16T17:42:05,ja_01,sesja_09,75,wzrok,po pracy,0,0.0,0,444,1,TN
+2026-03-16T17:42:06,ja_01,sesja_09,76,wzrok,po pracy,0,0.0,0,379,1,TN
+2026-03-16T17:42:06,ja_01,sesja_09,77,wzrok,po pracy,1,0.09,1,247,1,TP
+2026-03-16T17:42:08,ja_01,sesja_09,78,wzrok,po pracy,0,0.0,0,512,1,TN
+2026-03-16T17:42:08,ja_01,sesja_09,79,wzrok,po pracy,0,0.0,0,315,1,TN
+2026-03-16T17:42:10,ja_01,sesja_09,80,wzrok,po pracy,1,0.005,0,617,0,FN
+2026-03-16T17:42:11,ja_01,sesja_09,81,wzrok,po pracy,1,0.05,1,355,1,TP
+2026-03-16T17:42:12,ja_01,sesja_09,82,wzrok,po pracy,0,0.0,0,317,1,TN
+2026-03-16T17:42:13,ja_01,sesja_09,83,wzrok,po pracy,0,0.0,0,401,1,TN
+2026-03-16T17:42:14,ja_01,sesja_09,84,wzrok,po pracy,1,0.09,1,420,1,TP
+2026-03-16T17:42:15,ja_01,sesja_09,85,wzrok,po pracy,0,0.0,0,598,1,TN
+2026-03-16T17:42:16,ja_01,sesja_09,86,wzrok,po pracy,0,0.0,0,857,1,TN
+2026-03-16T17:42:17,ja_01,sesja_09,87,wzrok,po pracy,1,0.03,1,421,1,TP
+2026-03-16T17:42:18,ja_01,sesja_09,88,wzrok,po pracy,1,0.03,0,339,0,FN
+2026-03-16T17:42:19,ja_01,sesja_09,89,wzrok,po pracy,1,0.01,0,401,0,FN
+2026-03-16T17:42:20,ja_01,sesja_09,90,wzrok,po pracy,1,0.005,0,249,0,FN
+2026-03-16T17:42:21,ja_01,sesja_09,91,wzrok,po pracy,1,0.005,0,401,0,FN
+2026-03-16T17:42:22,ja_01,sesja_09,92,wzrok,po pracy,1,0.07,1,289,1,TP
+2026-03-16T17:42:23,ja_01,sesja_09,93,wzrok,po pracy,1,0.09,1,337,1,TP
+2026-03-16T17:42:24,ja_01,sesja_09,94,wzrok,po pracy,0,0.0,0,338,1,TN
+2026-03-16T17:42:25,ja_01,sesja_09,95,wzrok,po pracy,0,0.0,0,336,1,TN
+2026-03-16T17:42:26,ja_01,sesja_09,96,wzrok,po pracy,0,0.0,0,248,1,TN
+2026-03-16T17:42:27,ja_01,sesja_09,97,wzrok,po pracy,1,0.005,0,358,0,FN
+2026-03-16T17:42:28,ja_01,sesja_09,98,wzrok,po pracy,1,0.005,0,357,0,FN
+2026-03-16T17:42:29,ja_01,sesja_09,99,wzrok,po pracy,0,0.0,0,337,1,TN
+2026-03-16T17:42:30,ja_01,sesja_09,100,wzrok,po pracy,0,0.0,0,293,1,TN
+2026-03-18T21:22:24,ja_01,sesja_10,1,wzrok,wieczor,0,0.0,0,1053,1,TN
+2026-03-18T21:22:25,ja_01,sesja_10,2,wzrok,wieczor,0,0.0,0,379,1,TN
+2026-03-18T21:22:26,ja_01,sesja_10,3,wzrok,wieczor,0,0.0,0,249,1,TN
+2026-03-18T21:22:27,ja_01,sesja_10,4,wzrok,wieczor,0,0.0,0,336,1,TN
+2026-03-18T21:22:28,ja_01,sesja_10,5,wzrok,wieczor,1,0.09,1,243,1,TP
+2026-03-18T21:22:29,ja_01,sesja_10,6,wzrok,wieczor,0,0.0,0,210,1,TN
+2026-03-18T21:22:29,ja_01,sesja_10,7,wzrok,wieczor,1,0.01,0,225,0,FN
+2026-03-18T21:22:30,ja_01,sesja_10,8,wzrok,wieczor,1,0.03,1,290,1,TP
+2026-03-18T21:22:31,ja_01,sesja_10,9,wzrok,wieczor,1,0.07,1,227,1,TP
+2026-03-18T21:22:32,ja_01,sesja_10,10,wzrok,wieczor,1,0.09,1,119,1,TP
+2026-03-18T21:22:33,ja_01,sesja_10,11,wzrok,wieczor,1,0.07,1,141,1,TP
+2026-03-18T21:22:33,ja_01,sesja_10,12,wzrok,wieczor,0,0.0,0,208,1,TN
+2026-03-18T21:22:34,ja_01,sesja_10,13,wzrok,wieczor,1,0.05,0,141,0,FN
+2026-03-18T21:22:35,ja_01,sesja_10,14,wzrok,wieczor,1,0.005,0,271,0,FN
+2026-03-18T21:22:36,ja_01,sesja_10,15,wzrok,wieczor,0,0.0,0,292,1,TN
+2026-03-18T21:22:37,ja_01,sesja_10,16,wzrok,wieczor,0,0.0,0,272,1,TN
+2026-03-18T21:22:38,ja_01,sesja_10,17,wzrok,wieczor,0,0.0,0,228,1,TN
+2026-03-18T21:22:39,ja_01,sesja_10,18,wzrok,wieczor,1,0.01,0,162,0,FN
+2026-03-18T21:22:39,ja_01,sesja_10,19,wzrok,wieczor,0,0.0,0,205,1,TN
+2026-03-18T21:22:40,ja_01,sesja_10,20,wzrok,wieczor,1,0.05,1,247,1,TP
+2026-03-18T21:22:41,ja_01,sesja_10,21,wzrok,wieczor,0,0.0,0,187,1,TN
+2026-03-18T21:22:42,ja_01,sesja_10,22,wzrok,wieczor,0,0.0,0,162,1,TN
+2026-03-18T21:22:43,ja_01,sesja_10,23,wzrok,wieczor,1,0.005,0,206,0,FN
+2026-03-18T21:22:44,ja_01,sesja_10,24,wzrok,wieczor,1,0.07,1,204,1,TP
+2026-03-18T21:22:44,ja_01,sesja_10,25,wzrok,wieczor,1,0.01,0,187,0,FN
+2026-03-18T21:22:45,ja_01,sesja_10,26,wzrok,wieczor,0,0.0,0,227,1,TN
+2026-03-18T21:22:46,ja_01,sesja_10,27,wzrok,wieczor,1,0.01,0,185,0,FN
+2026-03-18T21:22:47,ja_01,sesja_10,28,wzrok,wieczor,0,0.0,0,185,1,TN
+2026-03-18T21:22:48,ja_01,sesja_10,29,wzrok,wieczor,1,0.01,0,117,0,FN
+2026-03-18T21:22:48,ja_01,sesja_10,30,wzrok,wieczor,0,0.0,0,120,1,TN
+2026-03-18T21:22:49,ja_01,sesja_10,31,wzrok,wieczor,0,0.0,0,97,1,TN
+2026-03-18T21:22:50,ja_01,sesja_10,32,wzrok,wieczor,1,0.03,1,269,1,TP
+2026-03-18T21:22:51,ja_01,sesja_10,33,wzrok,wieczor,1,0.005,0,166,0,FN
+2026-03-18T21:22:52,ja_01,sesja_10,34,wzrok,wieczor,0,0.0,0,163,1,TN
+2026-03-18T21:22:52,ja_01,sesja_10,35,wzrok,wieczor,1,0.07,1,248,1,TP
+2026-03-18T21:22:53,ja_01,sesja_10,36,wzrok,wieczor,1,0.05,1,249,1,TP
+2026-03-18T21:22:54,ja_01,sesja_10,37,wzrok,wieczor,0,0.0,0,252,1,TN
+2026-03-18T21:22:55,ja_01,sesja_10,38,wzrok,wieczor,0,0.0,0,250,1,TN
+2026-03-18T21:22:56,ja_01,sesja_10,39,wzrok,wieczor,1,0.01,0,162,0,FN
+2026-03-18T21:22:57,ja_01,sesja_10,40,wzrok,wieczor,0,0.0,0,140,1,TN
+2026-03-18T21:22:57,ja_01,sesja_10,41,wzrok,wieczor,0,0.0,0,162,1,TN
+2026-03-18T21:22:59,ja_01,sesja_10,42,wzrok,wieczor,0,0.0,0,531,1,TN
+2026-03-18T21:22:59,ja_01,sesja_10,43,wzrok,wieczor,1,0.005,0,249,0,FN
+2026-03-18T21:23:00,ja_01,sesja_10,44,wzrok,wieczor,1,0.01,0,206,0,FN
+2026-03-18T21:23:01,ja_01,sesja_10,45,wzrok,wieczor,1,0.09,1,203,1,TP
+2026-03-18T21:23:02,ja_01,sesja_10,46,wzrok,wieczor,0,0.0,0,100,1,TN
+2026-03-18T21:23:03,ja_01,sesja_10,47,wzrok,wieczor,0,0.0,0,206,1,TN
+2026-03-18T21:23:03,ja_01,sesja_10,48,wzrok,wieczor,1,0.05,0,119,0,FN
+2026-03-18T21:23:04,ja_01,sesja_10,49,wzrok,wieczor,0,0.0,0,293,1,TN
+2026-03-18T21:23:05,ja_01,sesja_10,50,wzrok,wieczor,0,0.0,0,184,1,TN
+2026-03-18T21:23:06,ja_01,sesja_10,51,wzrok,wieczor,0,0.0,0,271,1,TN
+2026-03-18T21:23:07,ja_01,sesja_10,52,wzrok,wieczor,1,0.005,0,314,0,FN
+2026-03-18T21:23:08,ja_01,sesja_10,53,wzrok,wieczor,0,0.0,0,272,1,TN
+2026-03-18T21:23:09,ja_01,sesja_10,54,wzrok,wieczor,0,0.0,0,249,1,TN
+2026-03-18T21:23:10,ja_01,sesja_10,55,wzrok,wieczor,1,0.07,1,161,1,TP
+2026-03-18T21:23:10,ja_01,sesja_10,56,wzrok,wieczor,1,0.03,1,205,1,TP
+2026-03-18T21:23:11,ja_01,sesja_10,57,wzrok,wieczor,1,0.07,1,119,1,TP
+2026-03-18T21:23:12,ja_01,sesja_10,58,wzrok,wieczor,1,0.01,0,229,0,FN
+2026-03-18T21:23:13,ja_01,sesja_10,59,wzrok,wieczor,1,0.05,1,95,1,TP
+2026-03-18T21:23:14,ja_01,sesja_10,60,wzrok,wieczor,0,0.0,0,231,1,TN
+2026-03-18T21:23:14,ja_01,sesja_10,61,wzrok,wieczor,1,0.05,1,159,1,TP
+2026-03-18T21:23:15,ja_01,sesja_10,62,wzrok,wieczor,1,0.01,0,165,0,FN
+2026-03-18T21:23:16,ja_01,sesja_10,63,wzrok,wieczor,0,0.0,1,225,0,FP
+2026-03-18T21:23:17,ja_01,sesja_10,64,wzrok,wieczor,1,0.01,0,619,0,FN
+2026-03-18T21:23:18,ja_01,sesja_10,65,wzrok,wieczor,1,0.07,1,333,1,TP
+2026-03-18T21:23:19,ja_01,sesja_10,66,wzrok,wieczor,1,0.05,1,184,1,TP
+2026-03-18T21:23:20,ja_01,sesja_10,67,wzrok,wieczor,1,0.005,0,533,0,FN
+2026-03-18T21:23:21,ja_01,sesja_10,68,wzrok,wieczor,0,0.0,0,292,1,TN
+2026-03-18T21:23:22,ja_01,sesja_10,69,wzrok,wieczor,1,0.05,1,225,1,TP
+2026-03-18T21:23:23,ja_01,sesja_10,70,wzrok,wieczor,0,0.0,0,163,1,TN
+2026-03-18T21:23:24,ja_01,sesja_10,71,wzrok,wieczor,0,0.0,0,293,1,TN
+2026-03-18T21:23:24,ja_01,sesja_10,72,wzrok,wieczor,0,0.0,0,183,1,TN
+2026-03-18T21:23:25,ja_01,sesja_10,73,wzrok,wieczor,0,0.0,0,292,1,TN
+2026-03-18T21:23:26,ja_01,sesja_10,74,wzrok,wieczor,1,0.03,0,206,0,FN
+2026-03-18T21:23:27,ja_01,sesja_10,75,wzrok,wieczor,0,0.0,0,379,1,TN
+2026-03-18T21:23:28,ja_01,sesja_10,76,wzrok,wieczor,0,0.0,0,358,1,TN
+2026-03-18T21:23:29,ja_01,sesja_10,77,wzrok,wieczor,0,0.0,0,227,1,TN
+2026-03-18T21:23:30,ja_01,sesja_10,78,wzrok,wieczor,0,0.0,0,162,1,TN
+2026-03-18T21:23:31,ja_01,sesja_10,79,wzrok,wieczor,1,0.09,1,246,1,TP
+2026-03-18T21:23:31,ja_01,sesja_10,80,wzrok,wieczor,1,0.05,1,98,1,TP
+2026-03-18T21:23:32,ja_01,sesja_10,81,wzrok,wieczor,0,0.0,1,98,0,FP
+2026-03-18T21:23:33,ja_01,sesja_10,82,wzrok,wieczor,1,0.05,1,162,1,TP
+2026-03-18T21:23:34,ja_01,sesja_10,83,wzrok,wieczor,1,0.09,1,162,1,TP
+2026-03-18T21:23:35,ja_01,sesja_10,84,wzrok,wieczor,0,0.0,0,186,1,TN
+2026-03-18T21:23:35,ja_01,sesja_10,85,wzrok,wieczor,0,0.0,0,271,1,TN
+2026-03-18T21:23:36,ja_01,sesja_10,86,wzrok,wieczor,1,0.07,1,203,1,TP
+2026-03-18T21:23:37,ja_01,sesja_10,87,wzrok,wieczor,0,0.0,0,252,1,TN
+2026-03-18T21:23:38,ja_01,sesja_10,88,wzrok,wieczor,0,0.0,0,185,1,TN
+2026-03-18T21:23:39,ja_01,sesja_10,89,wzrok,wieczor,0,0.0,0,271,1,TN
+2026-03-18T21:23:40,ja_01,sesja_10,90,wzrok,wieczor,0,0.0,0,162,1,TN
+2026-03-18T21:23:40,ja_01,sesja_10,91,wzrok,wieczor,1,0.05,1,203,1,TP
+2026-03-18T21:23:41,ja_01,sesja_10,92,wzrok,wieczor,0,0.0,0,209,1,TN
+2026-03-18T21:23:42,ja_01,sesja_10,93,wzrok,wieczor,1,0.09,1,203,1,TP
+2026-03-18T21:23:43,ja_01,sesja_10,94,wzrok,wieczor,1,0.09,1,227,1,TP
+2026-03-18T21:23:44,ja_01,sesja_10,95,wzrok,wieczor,1,0.09,1,162,1,TP
+2026-03-18T21:23:45,ja_01,sesja_10,96,wzrok,wieczor,1,0.03,1,184,1,TP
+2026-03-18T21:23:46,ja_01,sesja_10,97,wzrok,wieczor,0,0.0,0,273,1,TN
+2026-03-18T21:23:46,ja_01,sesja_10,98,wzrok,wieczor,1,0.07,1,245,1,TP
+2026-03-18T21:23:47,ja_01,sesja_10,99,wzrok,wieczor,0,0.0,0,186,1,TN
+2026-03-18T21:23:48,ja_01,sesja_10,100,wzrok,wieczor,1,0.01,0,401,0,FN
+2026-03-20T12:47:53,ja_01,sesja_11,1,wzrok,po poludniu,0,0.0,0,309,1,TN
+2026-03-20T12:47:54,ja_01,sesja_11,2,wzrok,po poludniu,0,0.0,0,213,1,TN
+2026-03-20T12:47:55,ja_01,sesja_11,3,wzrok,po poludniu,1,0.07,1,214,1,TP
+2026-03-20T12:47:56,ja_01,sesja_11,4,wzrok,po poludniu,1,0.03,1,239,1,TP
+2026-03-20T12:47:57,ja_01,sesja_11,5,wzrok,po poludniu,1,0.05,1,155,1,TP
+2026-03-20T12:47:57,ja_01,sesja_11,6,wzrok,po poludniu,1,0.005,0,248,0,FN
+2026-03-20T12:47:58,ja_01,sesja_11,7,wzrok,po poludniu,0,0.0,0,147,1,TN
+2026-03-20T12:47:59,ja_01,sesja_11,8,wzrok,po poludniu,0,0.0,0,109,1,TN
+2026-03-20T12:48:00,ja_01,sesja_11,9,wzrok,po poludniu,0,0.0,0,137,1,TN
+2026-03-20T12:48:01,ja_01,sesja_11,10,wzrok,po poludniu,0,0.0,0,134,1,TN
+2026-03-20T12:48:01,ja_01,sesja_11,11,wzrok,po poludniu,0,0.0,0,152,1,TN
+2026-03-20T12:48:02,ja_01,sesja_11,12,wzrok,po poludniu,0,0.0,0,176,1,TN
+2026-03-20T12:48:03,ja_01,sesja_11,13,wzrok,po poludniu,1,0.005,0,149,0,FN
+2026-03-20T12:48:04,ja_01,sesja_11,14,wzrok,po poludniu,1,0.005,0,129,0,FN
+2026-03-20T12:48:04,ja_01,sesja_11,15,wzrok,po poludniu,1,0.01,0,73,0,FN
+2026-03-20T12:48:05,ja_01,sesja_11,16,wzrok,po poludniu,0,0.0,0,112,1,TN
+2026-03-20T12:48:06,ja_01,sesja_11,17,wzrok,po poludniu,0,0.0,0,86,1,TN
+2026-03-20T12:48:07,ja_01,sesja_11,18,wzrok,po poludniu,0,0.0,0,81,1,TN
+2026-03-20T12:48:07,ja_01,sesja_11,19,wzrok,po poludniu,0,0.0,0,89,1,TN
+2026-03-20T12:48:08,ja_01,sesja_11,20,wzrok,po poludniu,0,0.0,0,118,1,TN
+2026-03-20T12:48:09,ja_01,sesja_11,21,wzrok,po poludniu,0,0.0,0,77,1,TN
+2026-03-20T12:48:09,ja_01,sesja_11,22,wzrok,po poludniu,0,0.0,0,74,1,TN
+2026-03-20T12:48:10,ja_01,sesja_11,23,wzrok,po poludniu,0,0.0,0,170,1,TN
+2026-03-20T12:48:11,ja_01,sesja_11,24,wzrok,po poludniu,0,0.0,0,81,1,TN
+2026-03-20T12:48:12,ja_01,sesja_11,25,wzrok,po poludniu,0,0.0,0,173,1,TN
+2026-03-20T12:48:13,ja_01,sesja_11,26,wzrok,po poludniu,0,0.0,0,246,1,TN
+2026-03-20T12:48:13,ja_01,sesja_11,27,wzrok,po poludniu,0,0.0,0,129,1,TN
+2026-03-20T12:48:14,ja_01,sesja_11,28,wzrok,po poludniu,1,0.09,0,51,0,FN
+2026-03-20T12:48:15,ja_01,sesja_11,29,wzrok,po poludniu,1,0.05,1,184,1,TP
+2026-03-20T12:48:16,ja_01,sesja_11,30,wzrok,po poludniu,0,0.0,0,292,1,TN
+2026-03-20T12:48:17,ja_01,sesja_11,31,wzrok,po poludniu,1,0.005,0,184,0,FN
+2026-03-20T12:48:18,ja_01,sesja_11,32,wzrok,po poludniu,1,0.01,0,218,0,FN
+2026-03-20T12:48:18,ja_01,sesja_11,33,wzrok,po poludniu,1,0.07,1,235,1,TP
+2026-03-20T12:48:19,ja_01,sesja_11,34,wzrok,po poludniu,0,0.0,0,220,1,TN
+2026-03-20T12:48:20,ja_01,sesja_11,35,wzrok,po poludniu,1,0.03,1,200,1,TP
+2026-03-20T12:48:21,ja_01,sesja_11,36,wzrok,po poludniu,1,0.07,1,144,1,TP
+2026-03-20T12:48:22,ja_01,sesja_11,37,wzrok,po poludniu,0,0.0,0,258,1,TN
+2026-03-20T12:48:23,ja_01,sesja_11,38,wzrok,po poludniu,1,0.09,1,178,1,TP
+2026-03-20T12:48:23,ja_01,sesja_11,39,wzrok,po poludniu,1,0.01,0,203,0,FN
+2026-03-20T12:48:24,ja_01,sesja_11,40,wzrok,po poludniu,1,0.07,0,102,0,FN
+2026-03-20T12:48:25,ja_01,sesja_11,41,wzrok,po poludniu,1,0.09,1,163,1,TP
+2026-03-20T12:48:26,ja_01,sesja_11,42,wzrok,po poludniu,1,0.05,1,125,1,TP
+2026-03-20T12:48:26,ja_01,sesja_11,43,wzrok,po poludniu,1,0.05,1,111,1,TP
+2026-03-20T12:48:27,ja_01,sesja_11,44,wzrok,po poludniu,1,0.09,1,161,1,TP
+2026-03-20T12:48:28,ja_01,sesja_11,45,wzrok,po poludniu,0,0.0,0,202,1,TN
+2026-03-20T12:48:29,ja_01,sesja_11,46,wzrok,po poludniu,1,0.03,1,153,1,TP
+2026-03-20T12:48:30,ja_01,sesja_11,47,wzrok,po poludniu,1,0.005,0,277,0,FN
+2026-03-20T12:48:31,ja_01,sesja_11,48,wzrok,po poludniu,1,0.005,0,238,0,FN
+2026-03-20T12:48:32,ja_01,sesja_11,49,wzrok,po poludniu,1,0.01,0,692,0,FN
+2026-03-20T12:48:33,ja_01,sesja_11,50,wzrok,po poludniu,0,0.0,0,532,1,TN
+2026-03-20T12:48:34,ja_01,sesja_11,51,wzrok,po poludniu,0,0.0,0,281,1,TN
+2026-03-20T12:48:35,ja_01,sesja_11,52,wzrok,po poludniu,1,0.05,1,184,1,TP
+2026-03-20T12:48:36,ja_01,sesja_11,53,wzrok,po poludniu,1,0.05,1,150,1,TP
+2026-03-20T12:48:37,ja_01,sesja_11,54,wzrok,po poludniu,0,0.0,0,316,1,TN
+2026-03-20T12:48:37,ja_01,sesja_11,55,wzrok,po poludniu,0,0.0,0,178,1,TN
+2026-03-20T12:48:38,ja_01,sesja_11,56,wzrok,po poludniu,0,0.0,0,186,1,TN
+2026-03-20T12:48:39,ja_01,sesja_11,57,wzrok,po poludniu,0,0.0,0,355,1,TN
+2026-03-20T12:48:40,ja_01,sesja_11,58,wzrok,po poludniu,1,0.005,0,297,0,FN
+2026-03-20T12:48:41,ja_01,sesja_11,59,wzrok,po poludniu,1,0.05,1,300,1,TP
+2026-03-20T12:48:42,ja_01,sesja_11,60,wzrok,po poludniu,0,0.0,0,335,1,TN
+2026-03-20T12:48:43,ja_01,sesja_11,61,wzrok,po poludniu,1,0.01,0,365,0,FN
+2026-03-20T12:48:44,ja_01,sesja_11,62,wzrok,po poludniu,0,0.0,0,435,1,TN
+2026-03-20T12:48:45,ja_01,sesja_11,63,wzrok,po poludniu,1,0.07,1,217,1,TP
+2026-03-20T12:48:46,ja_01,sesja_11,64,wzrok,po poludniu,1,0.07,1,186,1,TP
+2026-03-20T12:48:46,ja_01,sesja_11,65,wzrok,po poludniu,1,0.07,1,173,1,TP
+2026-03-20T12:48:47,ja_01,sesja_11,66,wzrok,po poludniu,1,0.005,0,316,0,FN
+2026-03-20T12:48:48,ja_01,sesja_11,67,wzrok,po poludniu,0,0.0,0,337,1,TN
+2026-03-20T12:48:49,ja_01,sesja_11,68,wzrok,po poludniu,0,0.0,0,242,1,TN
+2026-03-20T12:48:50,ja_01,sesja_11,69,wzrok,po poludniu,0,0.0,0,245,1,TN
+2026-03-20T12:48:51,ja_01,sesja_11,70,wzrok,po poludniu,0,0.0,0,340,1,TN
+2026-03-20T12:48:52,ja_01,sesja_11,71,wzrok,po poludniu,1,0.07,1,329,1,TP
+2026-03-20T12:48:53,ja_01,sesja_11,72,wzrok,po poludniu,1,0.07,1,176,1,TP
+2026-03-20T12:48:54,ja_01,sesja_11,73,wzrok,po poludniu,0,0.0,0,331,1,TN
+2026-03-20T12:48:55,ja_01,sesja_11,74,wzrok,po poludniu,1,0.03,1,407,1,TP
+2026-03-20T12:48:56,ja_01,sesja_11,75,wzrok,po poludniu,0,0.0,0,514,1,TN
+2026-03-20T12:48:57,ja_01,sesja_11,76,wzrok,po poludniu,1,0.07,1,249,1,TP
+2026-03-20T12:48:58,ja_01,sesja_11,77,wzrok,po poludniu,1,0.05,1,315,1,TP
+2026-03-20T12:48:59,ja_01,sesja_11,78,wzrok,po poludniu,0,0.0,0,581,1,TN
+2026-03-20T12:49:00,ja_01,sesja_11,79,wzrok,po poludniu,1,0.01,0,394,0,FN
+2026-03-20T12:49:01,ja_01,sesja_11,80,wzrok,po poludniu,0,0.0,0,447,1,TN
+2026-03-20T12:49:03,ja_01,sesja_11,81,wzrok,po poludniu,0,0.0,0,839,1,TN
+2026-03-20T12:49:04,ja_01,sesja_11,82,wzrok,po poludniu,1,0.03,1,364,1,TP
+2026-03-20T12:49:05,ja_01,sesja_11,83,wzrok,po poludniu,0,0.0,0,333,1,TN
+2026-03-20T12:49:05,ja_01,sesja_11,84,wzrok,po poludniu,1,0.03,1,242,1,TP
+2026-03-20T12:49:06,ja_01,sesja_11,85,wzrok,po poludniu,1,0.09,1,264,1,TP
+2026-03-20T12:49:07,ja_01,sesja_11,86,wzrok,po poludniu,0,0.0,1,183,0,FP
+2026-03-20T12:49:08,ja_01,sesja_11,87,wzrok,po poludniu,1,0.03,1,357,1,TP
+2026-03-20T12:49:09,ja_01,sesja_11,88,wzrok,po poludniu,0,0.0,0,471,1,TN
+2026-03-20T12:49:10,ja_01,sesja_11,89,wzrok,po poludniu,0,0.0,0,244,1,TN
+2026-03-20T12:49:11,ja_01,sesja_11,90,wzrok,po poludniu,1,0.09,1,270,1,TP
+2026-03-20T12:49:12,ja_01,sesja_11,91,wzrok,po poludniu,0,0.0,0,235,1,TN
+2026-03-20T12:49:13,ja_01,sesja_11,92,wzrok,po poludniu,1,0.09,1,319,1,TP
+2026-03-20T12:49:14,ja_01,sesja_11,93,wzrok,po poludniu,0,0.0,0,304,1,TN
+2026-03-20T12:49:15,ja_01,sesja_11,94,wzrok,po poludniu,0,0.0,0,310,1,TN
+2026-03-20T12:49:16,ja_01,sesja_11,95,wzrok,po poludniu,0,0.0,0,294,1,TN
+2026-03-20T12:49:17,ja_01,sesja_11,96,wzrok,po poludniu,1,0.07,1,289,1,TP
+2026-03-20T12:49:17,ja_01,sesja_11,97,wzrok,po poludniu,1,0.09,1,227,1,TP
+2026-03-20T12:49:19,ja_01,sesja_11,98,wzrok,po poludniu,1,0.005,0,612,0,FN
+2026-03-20T12:49:20,ja_01,sesja_11,99,wzrok,po poludniu,1,0.07,1,284,1,TP
+2026-03-20T12:49:20,ja_01,sesja_11,100,wzrok,po poludniu,0,0.0,0,231,1,TN
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,1,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,673,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,2,wzrok_symulowany,skupiony (d=2.0),1,0.01,1,384,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,3,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,488,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,4,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,565,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,5,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,322,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,6,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,483,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,7,wzrok_symulowany,skupiony (d=2.0),1,0.01,1,448,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,8,wzrok_symulowany,skupiony (d=2.0),1,0.03,0,633,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,9,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,701,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,10,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,518,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,11,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,343,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,12,wzrok_symulowany,skupiony (d=2.0),1,0.09,1,564,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,13,wzrok_symulowany,skupiony (d=2.0),1,0.07,0,701,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,14,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,331,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,15,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,380,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,16,wzrok_symulowany,skupiony (d=2.0),1,0.05,1,531,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,17,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,380,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,18,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,425,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,19,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,377,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,20,wzrok_symulowany,skupiony (d=2.0),1,0.03,0,657,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,21,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,591,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,22,wzrok_symulowany,skupiony (d=2.0),1,0.09,1,468,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,23,wzrok_symulowany,skupiony (d=2.0),1,0.01,1,421,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,24,wzrok_symulowany,skupiony (d=2.0),1,0.09,1,473,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,25,wzrok_symulowany,skupiony (d=2.0),1,0.01,0,584,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,26,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,513,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,27,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,646,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,28,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,345,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,29,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,355,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,30,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,446,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,31,wzrok_symulowany,skupiony (d=2.0),1,0.09,0,764,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,32,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,408,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,33,wzrok_symulowany,skupiony (d=2.0),1,0.09,0,603,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,34,wzrok_symulowany,skupiony (d=2.0),1,0.03,0,373,0,FN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,35,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,354,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,36,wzrok_symulowany,skupiony (d=2.0),1,0.05,1,554,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,37,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,537,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,38,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,542,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,39,wzrok_symulowany,skupiony (d=2.0),1,0.05,0,533,0,FN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,40,wzrok_symulowany,skupiony (d=2.0),1,0.005,1,318,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,41,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,696,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,42,wzrok_symulowany,skupiony (d=2.0),1,0.05,1,601,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,43,wzrok_symulowany,skupiony (d=2.0),1,0.05,0,704,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,44,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,531,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,45,wzrok_symulowany,skupiony (d=2.0),1,0.07,0,614,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,46,wzrok_symulowany,skupiony (d=2.0),1,0.09,1,567,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,47,wzrok_symulowany,skupiony (d=2.0),1,0.09,1,412,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,48,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,362,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,49,wzrok_symulowany,skupiony (d=2.0),1,0.03,1,345,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,50,wzrok_symulowany,skupiony (d=2.0),1,0.07,1,470,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,51,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,377,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,52,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,322,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,53,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,346,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,54,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,673,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,55,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,449,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,56,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,332,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,57,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,446,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,58,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,519,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,59,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,525,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,60,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,356,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,61,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,421,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,62,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,711,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,63,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,419,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,64,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,626,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,65,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,419,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,66,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,670,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,67,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,554,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,68,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,561,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,69,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,513,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,70,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,583,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,71,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,440,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,72,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,567,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,73,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,329,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,74,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,451,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,75,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,388,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,76,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,499,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,77,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,446,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,78,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,492,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,79,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,545,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,80,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,616,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,81,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,703,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,82,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,690,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,83,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,646,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,84,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,660,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,85,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,359,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,86,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,509,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,87,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,321,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,88,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,491,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,89,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,483,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,90,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,355,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,91,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,472,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,92,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,641,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,93,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,407,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,94,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,347,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,95,wzrok_symulowany,skupiony (d=2.0),0,0.0,1,706,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,96,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,520,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,97,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,604,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,98,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,497,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,99,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,566,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_10_sim,100,wzrok_symulowany,skupiony (d=2.0),0,0.0,0,465,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,1,wzrok_symulowany,sredni (d=1.0),1,0.01,1,544,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,2,wzrok_symulowany,sredni (d=1.0),1,0.03,0,648,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,3,wzrok_symulowany,sredni (d=1.0),1,0.09,0,651,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,4,wzrok_symulowany,sredni (d=1.0),1,0.03,0,688,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,5,wzrok_symulowany,sredni (d=1.0),1,0.01,1,660,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,6,wzrok_symulowany,sredni (d=1.0),1,0.05,0,578,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,7,wzrok_symulowany,sredni (d=1.0),1,0.07,1,502,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,8,wzrok_symulowany,sredni (d=1.0),1,0.005,0,503,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,9,wzrok_symulowany,sredni (d=1.0),1,0.03,0,601,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,10,wzrok_symulowany,sredni (d=1.0),1,0.09,1,680,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,11,wzrok_symulowany,sredni (d=1.0),1,0.01,1,443,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,12,wzrok_symulowany,sredni (d=1.0),1,0.01,1,539,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,13,wzrok_symulowany,sredni (d=1.0),1,0.09,0,409,0,FN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,14,wzrok_symulowany,sredni (d=1.0),1,0.09,0,644,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,15,wzrok_symulowany,sredni (d=1.0),1,0.07,1,302,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,16,wzrok_symulowany,sredni (d=1.0),1,0.09,0,501,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,17,wzrok_symulowany,sredni (d=1.0),1,0.07,1,735,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,18,wzrok_symulowany,sredni (d=1.0),1,0.07,1,478,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,19,wzrok_symulowany,sredni (d=1.0),1,0.005,0,598,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,20,wzrok_symulowany,sredni (d=1.0),1,0.07,1,688,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,21,wzrok_symulowany,sredni (d=1.0),1,0.07,1,616,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,22,wzrok_symulowany,sredni (d=1.0),1,0.05,0,656,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,23,wzrok_symulowany,sredni (d=1.0),1,0.01,1,417,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,24,wzrok_symulowany,sredni (d=1.0),1,0.01,1,653,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,25,wzrok_symulowany,sredni (d=1.0),1,0.005,1,453,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,26,wzrok_symulowany,sredni (d=1.0),1,0.07,0,418,0,FN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,27,wzrok_symulowany,sredni (d=1.0),1,0.01,1,480,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,28,wzrok_symulowany,sredni (d=1.0),1,0.005,1,306,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,29,wzrok_symulowany,sredni (d=1.0),1,0.005,1,632,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,30,wzrok_symulowany,sredni (d=1.0),1,0.01,1,525,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,31,wzrok_symulowany,sredni (d=1.0),1,0.01,0,530,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,32,wzrok_symulowany,sredni (d=1.0),1,0.09,1,499,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,33,wzrok_symulowany,sredni (d=1.0),1,0.005,1,447,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,34,wzrok_symulowany,sredni (d=1.0),1,0.05,0,632,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,35,wzrok_symulowany,sredni (d=1.0),1,0.03,1,477,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,36,wzrok_symulowany,sredni (d=1.0),1,0.01,0,522,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,37,wzrok_symulowany,sredni (d=1.0),1,0.005,1,411,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,38,wzrok_symulowany,sredni (d=1.0),1,0.01,1,420,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,39,wzrok_symulowany,sredni (d=1.0),1,0.09,1,763,1,TP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,40,wzrok_symulowany,sredni (d=1.0),1,0.05,0,622,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,41,wzrok_symulowany,sredni (d=1.0),1,0.01,1,453,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,42,wzrok_symulowany,sredni (d=1.0),1,0.05,1,438,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,43,wzrok_symulowany,sredni (d=1.0),1,0.09,0,628,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,44,wzrok_symulowany,sredni (d=1.0),1,0.07,0,651,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,45,wzrok_symulowany,sredni (d=1.0),1,0.005,1,494,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,46,wzrok_symulowany,sredni (d=1.0),1,0.03,1,387,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,47,wzrok_symulowany,sredni (d=1.0),1,0.005,0,424,0,FN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,48,wzrok_symulowany,sredni (d=1.0),1,0.09,0,541,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,49,wzrok_symulowany,sredni (d=1.0),1,0.07,1,357,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,50,wzrok_symulowany,sredni (d=1.0),1,0.09,1,436,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,51,wzrok_symulowany,sredni (d=1.0),0,0.0,0,427,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,52,wzrok_symulowany,sredni (d=1.0),0,0.0,0,416,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,53,wzrok_symulowany,sredni (d=1.0),0,0.0,0,582,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,54,wzrok_symulowany,sredni (d=1.0),0,0.0,0,345,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,55,wzrok_symulowany,sredni (d=1.0),0,0.0,0,529,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,56,wzrok_symulowany,sredni (d=1.0),0,0.0,1,616,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,57,wzrok_symulowany,sredni (d=1.0),0,0.0,1,612,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,58,wzrok_symulowany,sredni (d=1.0),0,0.0,0,395,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,59,wzrok_symulowany,sredni (d=1.0),0,0.0,0,414,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,60,wzrok_symulowany,sredni (d=1.0),0,0.0,0,474,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,61,wzrok_symulowany,sredni (d=1.0),0,0.0,0,554,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,62,wzrok_symulowany,sredni (d=1.0),0,0.0,0,619,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,63,wzrok_symulowany,sredni (d=1.0),0,0.0,1,544,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,64,wzrok_symulowany,sredni (d=1.0),0,0.0,1,519,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,65,wzrok_symulowany,sredni (d=1.0),0,0.0,0,466,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,66,wzrok_symulowany,sredni (d=1.0),0,0.0,0,546,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,67,wzrok_symulowany,sredni (d=1.0),0,0.0,0,707,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,68,wzrok_symulowany,sredni (d=1.0),0,0.0,1,627,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,69,wzrok_symulowany,sredni (d=1.0),0,0.0,0,703,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,70,wzrok_symulowany,sredni (d=1.0),0,0.0,0,341,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,71,wzrok_symulowany,sredni (d=1.0),0,0.0,0,625,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,72,wzrok_symulowany,sredni (d=1.0),0,0.0,0,422,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,73,wzrok_symulowany,sredni (d=1.0),0,0.0,1,413,0,FP,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,74,wzrok_symulowany,sredni (d=1.0),0,0.0,0,340,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,75,wzrok_symulowany,sredni (d=1.0),0,0.0,0,471,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,76,wzrok_symulowany,sredni (d=1.0),0,0.0,0,432,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,77,wzrok_symulowany,sredni (d=1.0),0,0.0,0,466,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,78,wzrok_symulowany,sredni (d=1.0),0,0.0,0,453,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,79,wzrok_symulowany,sredni (d=1.0),0,0.0,1,680,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,80,wzrok_symulowany,sredni (d=1.0),0,0.0,0,412,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,81,wzrok_symulowany,sredni (d=1.0),0,0.0,0,420,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,82,wzrok_symulowany,sredni (d=1.0),0,0.0,0,416,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,83,wzrok_symulowany,sredni (d=1.0),0,0.0,0,403,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,84,wzrok_symulowany,sredni (d=1.0),0,0.0,1,672,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,85,wzrok_symulowany,sredni (d=1.0),0,0.0,0,533,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,86,wzrok_symulowany,sredni (d=1.0),0,0.0,1,529,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,87,wzrok_symulowany,sredni (d=1.0),0,0.0,0,467,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,88,wzrok_symulowany,sredni (d=1.0),0,0.0,0,442,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,89,wzrok_symulowany,sredni (d=1.0),0,0.0,0,787,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,90,wzrok_symulowany,sredni (d=1.0),0,0.0,1,788,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,91,wzrok_symulowany,sredni (d=1.0),0,0.0,0,624,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,92,wzrok_symulowany,sredni (d=1.0),0,0.0,0,360,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,93,wzrok_symulowany,sredni (d=1.0),0,0.0,0,525,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,94,wzrok_symulowany,sredni (d=1.0),0,0.0,1,743,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,95,wzrok_symulowany,sredni (d=1.0),0,0.0,0,482,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,96,wzrok_symulowany,sredni (d=1.0),0,0.0,0,460,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,97,wzrok_symulowany,sredni (d=1.0),0,0.0,0,364,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,98,wzrok_symulowany,sredni (d=1.0),0,0.0,0,618,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,99,wzrok_symulowany,sredni (d=1.0),0,0.0,1,624,0,FP,1
+2026-03-30T18:30:03,symulacja_02,sesja_11_sim,100,wzrok_symulowany,sredni (d=1.0),0,0.0,0,768,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,1,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,618,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,2,wzrok_symulowany,zmeczony (d=0.2),1,0.09,1,711,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,3,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,344,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,4,wzrok_symulowany,zmeczony (d=0.2),1,0.005,1,390,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,5,wzrok_symulowany,zmeczony (d=0.2),1,0.05,1,432,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,6,wzrok_symulowany,zmeczony (d=0.2),1,0.03,0,668,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,7,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,566,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,8,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,591,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,9,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,470,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,10,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,599,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,11,wzrok_symulowany,zmeczony (d=0.2),1,0.005,1,505,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,12,wzrok_symulowany,zmeczony (d=0.2),1,0.09,1,616,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,13,wzrok_symulowany,zmeczony (d=0.2),1,0.005,1,525,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,14,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,516,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,15,wzrok_symulowany,zmeczony (d=0.2),1,0.09,1,616,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,16,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,649,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,17,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,575,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,18,wzrok_symulowany,zmeczony (d=0.2),1,0.09,0,546,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,19,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,456,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,20,wzrok_symulowany,zmeczony (d=0.2),1,0.03,0,665,0,FN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,21,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,566,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,22,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,595,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,23,wzrok_symulowany,zmeczony (d=0.2),1,0.05,0,518,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,24,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,621,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,25,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,632,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,26,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,381,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,27,wzrok_symulowany,zmeczony (d=0.2),1,0.05,1,474,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,28,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,415,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,29,wzrok_symulowany,zmeczony (d=0.2),1,0.07,0,609,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,30,wzrok_symulowany,zmeczony (d=0.2),1,0.03,0,456,0,FN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,31,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,447,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,32,wzrok_symulowany,zmeczony (d=0.2),1,0.005,0,421,0,FN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,33,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,523,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,34,wzrok_symulowany,zmeczony (d=0.2),1,0.01,1,644,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,35,wzrok_symulowany,zmeczony (d=0.2),1,0.07,0,575,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,36,wzrok_symulowany,zmeczony (d=0.2),1,0.005,0,660,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,37,wzrok_symulowany,zmeczony (d=0.2),1,0.005,1,568,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,38,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,629,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,39,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,488,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,40,wzrok_symulowany,zmeczony (d=0.2),1,0.03,0,729,0,FN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,41,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,505,0,FN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,42,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,719,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,43,wzrok_symulowany,zmeczony (d=0.2),1,0.07,1,659,1,TP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,44,wzrok_symulowany,zmeczony (d=0.2),1,0.03,1,330,1,TP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,45,wzrok_symulowany,zmeczony (d=0.2),1,0.05,0,435,0,FN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,46,wzrok_symulowany,zmeczony (d=0.2),1,0.01,0,467,0,FN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,47,wzrok_symulowany,zmeczony (d=0.2),1,0.09,0,309,0,FN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,48,wzrok_symulowany,zmeczony (d=0.2),1,0.005,1,514,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,49,wzrok_symulowany,zmeczony (d=0.2),1,0.05,1,456,1,TP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,50,wzrok_symulowany,zmeczony (d=0.2),1,0.09,1,457,1,TP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,51,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,578,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,52,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,602,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,53,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,688,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,54,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,660,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,55,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,608,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,56,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,379,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,57,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,494,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,58,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,508,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,59,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,663,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,60,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,522,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,61,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,656,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,62,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,434,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,63,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,767,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,64,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,492,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,65,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,453,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,66,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,454,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,67,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,398,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,68,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,427,0,FP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,69,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,430,0,FP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,70,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,503,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,71,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,368,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,72,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,526,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,73,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,680,1,TN,1
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,74,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,633,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,75,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,490,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,76,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,450,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,77,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,458,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,78,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,601,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,79,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,647,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,80,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,534,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,81,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,516,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,82,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,541,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,83,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,398,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,84,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,572,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,85,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,460,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,86,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,677,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,87,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,688,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,88,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,468,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,89,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,491,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,90,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,449,0,FP,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,91,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,512,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,92,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,591,0,FP,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,93,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,655,1,TN,2
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,94,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,492,1,TN,4
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,95,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,386,0,FP,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,96,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,527,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,97,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,463,1,TN,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,98,wzrok_symulowany,zmeczony (d=0.2),0,0.0,1,558,0,FP,3
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,99,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,439,1,TN,5
+2026-03-30T18:30:03,symulacja_02,sesja_12_sim,100,wzrok_symulowany,zmeczony (d=0.2),0,0.0,0,426,1,TN,5
+2026-04-04T18:34:39,ja_01,sesja_11,1,wzrok,weekend,1,0.01,0,568,0,FN,
+2026-04-04T18:34:44,ja_01,sesja_11,2,wzrok,weekend,0,0.0,0,694,1,TN,5
+2026-04-04T18:34:46,ja_01,sesja_11,3,wzrok,weekend,1,0.07,1,809,1,TP,5
+2026-04-04T18:34:48,ja_01,sesja_11,4,wzrok,weekend,1,0.07,1,375,1,TP,5
+2026-04-04T18:34:51,ja_01,sesja_11,5,wzrok,weekend,0,0.0,0,375,1,TN,5
+2026-04-04T18:34:53,ja_01,sesja_11,6,wzrok,weekend,0,0.0,0,610,1,TN,4
+2026-04-04T18:34:55,ja_01,sesja_11,7,wzrok,weekend,0,0.0,0,398,1,TN,4
+2026-04-04T18:34:57,ja_01,sesja_11,8,wzrok,weekend,0,0.0,0,331,1,TN,4
+2026-04-04T18:35:00,ja_01,sesja_11,9,wzrok,weekend,0,0.0,0,633,1,TN,4
+2026-04-04T18:35:02,ja_01,sesja_11,10,wzrok,weekend,1,0.05,1,722,1,TP,5
+2026-04-04T18:35:04,ja_01,sesja_11,11,wzrok,weekend,0,0.0,0,613,1,TN,5
+2026-04-04T18:35:07,ja_01,sesja_11,12,wzrok,weekend,0,0.0,0,308,1,TN,5
+2026-04-04T18:35:10,ja_01,sesja_11,13,wzrok,weekend,1,0.005,0,824,0,FN,5
+2026-04-04T18:35:12,ja_01,sesja_11,14,wzrok,weekend,0,0.0,0,374,1,TN,5
+2026-04-04T18:35:16,ja_01,sesja_11,15,wzrok,weekend,1,0.07,1,1187,1,TP,5
+2026-04-04T18:35:19,ja_01,sesja_11,16,wzrok,weekend,1,0.05,1,849,1,TP,5
+2026-04-04T18:35:23,ja_01,sesja_11,17,wzrok,weekend,0,0.0,0,499,1,TN,5
+2026-04-04T18:35:27,ja_01,sesja_11,18,wzrok,weekend,0,0.0,0,1001,1,TN,5
+2026-04-04T18:35:30,ja_01,sesja_11,19,wzrok,weekend,1,0.005,0,876,0,FN,5
+2026-04-04T18:35:32,ja_01,sesja_11,20,wzrok,weekend,0,0.0,0,735,1,TN,5
+2026-04-04T18:35:35,ja_01,sesja_11,21,wzrok,weekend,0,0.0,0,624,1,TN,5
+2026-04-04T18:35:37,ja_01,sesja_11,22,wzrok,weekend,1,0.01,0,533,0,FN,5
+2026-04-04T18:35:39,ja_01,sesja_11,23,wzrok,weekend,1,0.09,1,779,1,TP,5
+2026-04-04T18:35:41,ja_01,sesja_11,24,wzrok,weekend,1,0.03,0,,0,FN,
+2026-04-04T18:35:43,ja_01,sesja_11,25,wzrok,weekend,0,0.0,0,,1,TN,
+2026-04-04T18:35:47,ja_01,sesja_11,26,wzrok,weekend,0,0.0,0,720,1,TN,3
+2026-04-04T18:35:49,ja_01,sesja_11,27,wzrok,weekend,0,0.0,0,763,1,TN,3
+2026-04-04T18:35:52,ja_01,sesja_11,28,wzrok,weekend,0,0.0,0,352,1,TN,3
+2026-04-04T18:35:54,ja_01,sesja_11,29,wzrok,weekend,0,0.0,0,534,1,TN,3
+2026-04-04T18:35:56,ja_01,sesja_11,30,wzrok,weekend,1,0.005,0,421,0,FN,3
+2026-04-04T18:35:59,ja_01,sesja_11,31,wzrok,weekend,1,0.005,0,533,0,FN,3
+2026-04-04T18:36:02,ja_01,sesja_11,32,wzrok,weekend,1,0.03,1,915,1,TP,4
+2026-04-04T18:36:04,ja_01,sesja_11,33,wzrok,weekend,1,0.07,0,,0,FN,
+2026-04-04T18:36:07,ja_01,sesja_11,34,wzrok,weekend,0,0.0,0,773,1,TN,5
+2026-04-04T18:36:09,ja_01,sesja_11,35,wzrok,weekend,0,0.0,0,501,1,TN,5
+2026-04-04T18:36:11,ja_01,sesja_11,36,wzrok,weekend,1,0.03,1,983,1,TP,5
+2026-04-04T18:36:13,ja_01,sesja_11,37,wzrok,weekend,1,0.07,1,634,1,TP,5
+2026-04-04T18:36:15,ja_01,sesja_11,38,wzrok,weekend,0,0.0,0,568,1,TN,4
+2026-04-04T18:36:17,ja_01,sesja_11,39,wzrok,weekend,0,0.0,0,,1,TN,
+2026-04-04T18:36:20,ja_01,sesja_11,40,wzrok,weekend,0,0.0,0,361,1,TN,4
+2026-04-04T18:36:23,ja_01,sesja_11,41,wzrok,weekend,0,0.0,0,566,1,TN,3
+2026-04-04T18:36:25,ja_01,sesja_11,42,wzrok,weekend,1,0.05,1,937,1,TP,5
+2026-04-04T18:36:28,ja_01,sesja_11,43,wzrok,weekend,0,0.0,0,803,1,TN,4
+2026-04-04T18:36:31,ja_01,sesja_11,44,wzrok,weekend,0,0.0,0,376,1,TN,4
+2026-04-04T18:36:35,ja_01,sesja_11,45,wzrok,weekend,0,0.0,0,1152,1,TN,5
+2026-04-04T18:36:37,ja_01,sesja_11,46,wzrok,weekend,1,0.03,1,803,1,TP,4
+2026-04-04T18:36:39,ja_01,sesja_11,47,wzrok,weekend,1,0.01,0,,0,FN,
+2026-04-04T18:36:41,ja_01,sesja_11,48,wzrok,weekend,1,0.03,0,632,0,FN,2
+2026-04-04T18:36:43,ja_01,sesja_11,49,wzrok,weekend,0,0.0,0,477,1,TN,2
+2026-04-04T18:36:45,ja_01,sesja_11,50,wzrok,weekend,1,0.09,1,666,1,TP,5
+2026-04-04T18:36:47,ja_01,sesja_11,51,wzrok,weekend,1,0.05,1,217,1,TP,5
+2026-04-04T18:36:48,ja_01,sesja_11,52,wzrok,weekend,0,0.0,0,286,1,TN,4
+2026-04-04T18:36:50,ja_01,sesja_11,53,wzrok,weekend,1,0.05,1,207,1,TP,4
+2026-04-04T18:36:53,ja_01,sesja_11,54,wzrok,weekend,1,0.005,0,1061,0,FN,5
+2026-04-04T18:36:54,ja_01,sesja_11,55,wzrok,weekend,1,0.07,1,217,1,TP,5
+2026-04-04T18:36:56,ja_01,sesja_11,56,wzrok,weekend,0,0.0,0,354,1,TN,5
+2026-04-04T18:36:58,ja_01,sesja_11,57,wzrok,weekend,0,0.0,0,489,1,TN,5
+2026-04-04T18:36:59,ja_01,sesja_11,58,wzrok,weekend,1,0.09,1,464,1,TP,5
+2026-04-04T18:37:00,ja_01,sesja_11,59,wzrok,weekend,1,0.05,1,251,1,TP,5
+2026-04-04T18:37:02,ja_01,sesja_11,60,wzrok,weekend,1,0.005,0,319,0,FN,5
+2026-04-04T18:37:04,ja_01,sesja_11,61,wzrok,weekend,0,0.0,0,374,1,TN,5
+2026-04-04T18:37:06,ja_01,sesja_11,62,wzrok,weekend,0,0.0,0,,1,TN,
+2026-04-04T18:37:08,ja_01,sesja_11,63,wzrok,weekend,1,0.01,0,703,0,FN,4
+2026-04-04T18:37:10,ja_01,sesja_11,64,wzrok,weekend,0,0.0,0,353,1,TN,4
+2026-04-04T18:37:12,ja_01,sesja_11,65,wzrok,weekend,1,0.09,1,725,1,TP,5
+2026-04-04T18:37:14,ja_01,sesja_11,66,wzrok,weekend,1,0.09,1,827,1,TP,5
+2026-04-04T18:37:16,ja_01,sesja_11,67,wzrok,weekend,1,0.05,1,522,1,TP,5
+2026-04-04T18:37:20,ja_01,sesja_11,68,wzrok,weekend,1,0.005,0,1176,0,FN,4
+2026-04-04T18:37:22,ja_01,sesja_11,69,wzrok,weekend,0,0.0,0,330,1,TN,4
+2026-04-04T18:37:26,ja_01,sesja_11,70,wzrok,weekend,1,0.09,1,849,1,TP,5
+2026-04-04T18:37:27,ja_01,sesja_11,71,wzrok,weekend,1,0.05,1,354,1,TP,5
+2026-04-04T18:37:28,ja_01,sesja_11,72,wzrok,weekend,1,0.09,1,240,1,TP,5
+2026-04-04T18:37:31,ja_01,sesja_11,73,wzrok,weekend,1,0.005,0,330,0,FN,5
+2026-04-04T18:37:33,ja_01,sesja_11,74,wzrok,weekend,1,0.005,0,240,0,FN,4
+2026-04-04T18:37:35,ja_01,sesja_11,75,wzrok,weekend,0,0.0,0,1119,1,TN,4
+2026-04-04T18:37:36,ja_01,sesja_11,76,wzrok,weekend,1,0.005,0,353,0,FN,4
+2026-04-04T18:37:38,ja_01,sesja_11,77,wzrok,weekend,0,0.0,0,,1,TN,
+2026-04-04T18:37:41,ja_01,sesja_11,78,wzrok,weekend,0,0.0,0,696,1,TN,5
+2026-04-04T18:37:43,ja_01,sesja_11,79,wzrok,weekend,1,0.09,1,983,1,TP,5
+2026-04-04T18:37:47,ja_01,sesja_11,80,wzrok,weekend,0,0.0,0,1017,1,TN,4
+2026-04-04T18:37:48,ja_01,sesja_11,81,wzrok,weekend,1,0.03,1,421,1,TP,5
+2026-04-04T18:37:51,ja_01,sesja_11,82,wzrok,weekend,0,0.0,0,499,1,TN,5
+2026-04-04T18:37:53,ja_01,sesja_11,83,wzrok,weekend,0,0.0,0,871,1,TN,5
+2026-04-04T18:37:55,ja_01,sesja_11,84,wzrok,weekend,1,0.05,1,319,1,TP,5
+2026-04-04T18:37:56,ja_01,sesja_11,85,wzrok,weekend,1,0.01,0,217,0,FN,5
+2026-04-04T18:37:59,ja_01,sesja_11,86,wzrok,weekend,0,0.0,0,454,1,TN,4
+2026-04-04T18:38:00,ja_01,sesja_11,87,wzrok,weekend,0,0.0,0,465,1,TN,4
+2026-04-04T18:38:02,ja_01,sesja_11,88,wzrok,weekend,0,0.0,0,511,1,TN,5
+2026-04-04T18:38:03,ja_01,sesja_11,89,wzrok,weekend,0,0.0,0,331,1,TN,5
+2026-04-04T18:38:04,ja_01,sesja_11,90,wzrok,weekend,1,0.01,0,251,0,FN,5
+2026-04-04T18:38:07,ja_01,sesja_11,91,wzrok,weekend,1,0.01,0,1060,0,FN,5
+2026-04-04T18:38:08,ja_01,sesja_11,92,wzrok,weekend,1,0.05,1,802,1,TP,5
+2026-04-04T18:38:10,ja_01,sesja_11,93,wzrok,weekend,1,0.09,1,307,1,TP,5
+2026-04-04T18:38:12,ja_01,sesja_11,94,wzrok,weekend,0,0.0,0,1049,1,TN,5
+2026-04-04T18:38:14,ja_01,sesja_11,95,wzrok,weekend,1,0.07,1,757,1,TP,5
+2026-04-04T18:38:16,ja_01,sesja_11,96,wzrok,weekend,0,0.0,0,825,1,TN,5
+2026-04-04T18:38:18,ja_01,sesja_11,97,wzrok,weekend,0,0.0,0,894,1,TN,4
+2026-04-04T18:38:21,ja_01,sesja_11,98,wzrok,weekend,0,0.0,0,1028,1,TN,4
+2026-04-04T18:38:23,ja_01,sesja_11,99,wzrok,weekend,1,0.05,1,736,1,TP,4
+2026-04-04T18:38:25,ja_01,sesja_11,100,wzrok,weekend,0,0.0,0,793,1,TN,4
+2026-04-04T18:38:58,ja_01,sesja_staircase_01,1,wzrok,po poludniu (staircase),0,0.0,0,471,1,TN,5
+2026-04-04T18:38:59,ja_01,sesja_staircase_01,2,wzrok,po poludniu (staircase),0,0.0,0,555,1,TN,5
+2026-04-04T18:39:01,ja_01,sesja_staircase_01,3,wzrok,po poludniu (staircase),1,0.1,1,789,1,TP,5
+2026-04-04T18:39:03,ja_01,sesja_staircase_01,4,wzrok,po poludniu (staircase),0,0.0,0,848,1,TN,4
+2026-04-04T18:39:05,ja_01,sesja_staircase_01,5,wzrok,po poludniu (staircase),0,0.0,0,422,1,TN,4
+2026-04-04T18:39:07,ja_01,sesja_staircase_01,6,wzrok,po poludniu (staircase),0,0.0,0,375,1,TN,4
+2026-04-04T18:39:08,ja_01,sesja_staircase_01,7,wzrok,po poludniu (staircase),0,0.0,0,319,1,TN,4
+2026-04-04T18:39:09,ja_01,sesja_staircase_01,8,wzrok,po poludniu (staircase),0,0.0,0,219,1,TN,5
+2026-04-04T18:39:11,ja_01,sesja_staircase_01,9,wzrok,po poludniu (staircase),0,0.0,0,332,1,TN,5
+2026-04-04T18:39:13,ja_01,sesja_staircase_01,10,wzrok,po poludniu (staircase),1,0.1,1,1085,1,TP,5
+2026-04-04T18:39:14,ja_01,sesja_staircase_01,11,wzrok,po poludniu (staircase),1,0.08,1,161,1,TP,5
+2026-04-04T18:39:15,ja_01,sesja_staircase_01,12,wzrok,po poludniu (staircase),1,0.08,1,365,1,TP,5
+2026-04-04T18:39:17,ja_01,sesja_staircase_01,13,wzrok,po poludniu (staircase),0,0.0,0,310,1,TN,5
+2026-04-04T18:39:19,ja_01,sesja_staircase_01,14,wzrok,po poludniu (staircase),1,0.064,1,487,1,TP,5
+2026-04-04T18:39:20,ja_01,sesja_staircase_01,15,wzrok,po poludniu (staircase),0,0.0,0,397,1,TN,5
+2026-04-04T18:39:23,ja_01,sesja_staircase_01,16,wzrok,po poludniu (staircase),1,0.064,0,837,0,FN,5
+2026-04-04T18:39:25,ja_01,sesja_staircase_01,17,wzrok,po poludniu (staircase),0,0.0,0,511,1,TN,5
+2026-04-04T18:39:26,ja_01,sesja_staircase_01,18,wzrok,po poludniu (staircase),0,0.0,0,343,1,TN,5
+2026-04-04T18:39:27,ja_01,sesja_staircase_01,19,wzrok,po poludniu (staircase),0,0.0,0,253,1,TN,5
+2026-04-04T18:39:29,ja_01,sesja_staircase_01,20,wzrok,po poludniu (staircase),0,0.0,0,217,1,TN,5
+2026-04-04T18:39:30,ja_01,sesja_staircase_01,21,wzrok,po poludniu (staircase),0,0.0,0,230,1,TN,5
+2026-04-04T18:39:31,ja_01,sesja_staircase_01,22,wzrok,po poludniu (staircase),0,0.0,0,308,1,TN,5
+2026-04-04T18:39:33,ja_01,sesja_staircase_01,23,wzrok,po poludniu (staircase),1,0.08,1,936,1,TP,5
+2026-04-04T18:39:35,ja_01,sesja_staircase_01,24,wzrok,po poludniu (staircase),0,0.0,0,915,1,TN,5
+2026-04-04T18:39:37,ja_01,sesja_staircase_01,25,wzrok,po poludniu (staircase),1,0.08,1,701,1,TP,5
+2026-04-04T18:39:38,ja_01,sesja_staircase_01,26,wzrok,po poludniu (staircase),1,0.064,1,262,1,TP,5
+2026-04-04T18:39:41,ja_01,sesja_staircase_01,27,wzrok,po poludniu (staircase),0,0.0,0,916,1,TN,5
+2026-04-04T18:39:42,ja_01,sesja_staircase_01,28,wzrok,po poludniu (staircase),0,0.0,0,251,1,TN,4
+2026-04-04T18:39:45,ja_01,sesja_staircase_01,29,wzrok,po poludniu (staircase),1,0.064,1,972,1,TP,5
+2026-04-04T18:39:46,ja_01,sesja_staircase_01,30,wzrok,po poludniu (staircase),1,0.0512,1,284,1,TP,5
+2026-04-04T18:39:47,ja_01,sesja_staircase_01,31,wzrok,po poludniu (staircase),1,0.0512,1,307,1,TP,5
+2026-04-04T18:39:49,ja_01,sesja_staircase_01,32,wzrok,po poludniu (staircase),1,0.041,1,251,1,TP,5
+2026-04-04T18:39:50,ja_01,sesja_staircase_01,33,wzrok,po poludniu (staircase),1,0.041,1,183,1,TP,5
+2026-04-04T18:39:52,ja_01,sesja_staircase_01,34,wzrok,po poludniu (staircase),1,0.0328,1,331,1,TP,5
+2026-04-04T18:39:53,ja_01,sesja_staircase_01,35,wzrok,po poludniu (staircase),1,0.0328,1,263,1,TP,5
+2026-04-04T18:39:55,ja_01,sesja_staircase_01,36,wzrok,po poludniu (staircase),0,0.0,0,,1,TN,
+2026-04-04T18:39:57,ja_01,sesja_staircase_01,37,wzrok,po poludniu (staircase),0,0.0,0,746,1,TN,4
+2026-04-04T18:39:59,ja_01,sesja_staircase_01,38,wzrok,po poludniu (staircase),1,0.0262,1,668,1,TP,5
+2026-04-04T18:40:01,ja_01,sesja_staircase_01,39,wzrok,po poludniu (staircase),1,0.0262,1,567,1,TP,5
+2026-04-04T18:40:04,ja_01,sesja_staircase_01,40,wzrok,po poludniu (staircase),0,0.0,0,287,1,TN,5
+2026-04-04T18:40:07,ja_01,sesja_staircase_01,41,wzrok,po poludniu (staircase),1,0.021,0,476,0,FN,2
+2026-04-04T18:40:10,ja_01,sesja_staircase_01,42,wzrok,po poludniu (staircase),0,0.0,0,1198,1,TN,4
+2026-04-04T18:40:12,ja_01,sesja_staircase_01,43,wzrok,po poludniu (staircase),1,0.0262,1,870,1,TP,5
+2026-04-04T18:40:13,ja_01,sesja_staircase_01,44,wzrok,po poludniu (staircase),1,0.0262,1,341,1,TP,5
+2026-04-04T18:40:14,ja_01,sesja_staircase_01,45,wzrok,po poludniu (staircase),1,0.021,1,274,1,TP,5
+2026-04-04T18:40:17,ja_01,sesja_staircase_01,46,wzrok,po poludniu (staircase),0,0.0,0,1287,1,TN,3
+2026-04-04T18:40:19,ja_01,sesja_staircase_01,47,wzrok,po poludniu (staircase),1,0.021,1,1264,1,TP,4
+2026-04-04T18:40:21,ja_01,sesja_staircase_01,48,wzrok,po poludniu (staircase),1,0.0168,1,656,1,TP,4
+2026-04-04T18:40:23,ja_01,sesja_staircase_01,49,wzrok,po poludniu (staircase),0,0.0,0,994,1,TN,5
+2026-04-04T18:40:26,ja_01,sesja_staircase_01,50,wzrok,po poludniu (staircase),1,0.0168,1,1455,1,TP,5
