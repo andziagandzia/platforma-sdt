@@ -192,7 +192,10 @@ def calculate_auc(far_points, hr_points):
     """
     if len(far_points) < 2:
         return 0.0
-    return np.trapz(hr_points, far_points)
+    if hasattr(np, 'trapezoid'):
+        return np.trapezoid(hr_points, far_points)
+    else:
+        return np.trapz(hr_points, far_points)
 
 def calculate_z_roc(far_points, hr_points):
     """
